@@ -1,1 +1,1 @@
-# Movie-recommendation-sentiments-analysis-heroku
+# Movie-recommendation-sentiments-analysis
