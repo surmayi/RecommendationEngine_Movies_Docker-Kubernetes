@@ -1,0 +1,925 @@
+,title,director,actor1,actor2,actor3,genres
+0,underworld: blood wars,Anna Foerster , Kate Beckinsale, Theo James, Tobias Menzies,Fantasy  Action  Horror
+1,arsenal,Steven C. Miller , Adrian Grenier, Johnathon Schaech, Nicolas Cage,Action  Crime  Thriller
+2,between us,Rafael Palacio Illingworth , Olivia Thirlby, Ben Feldman, Adam Goldberg,Romance  Adventure  Drama
+3,monster trucks,Chris Wedge , Lucas Till, Jane Levy, Amy Ryan,Action  Comedy  Science Fiction
+4,the bye bye man,Stacy Title , Douglas Smith, Doug Jones, Michael Trucco,Horror  Thriller
+5,sleepless,Baran bo Odar , Jamie Foxx, T.I., Drew Sidora,Action  Crime  Thriller
+6,100 streets,Jim O'Hanlon , Idris Elba, Gemma Arterton, Charlie Creed-Miles,Drama
+7,the book of love,Bill Purple , Jason Sudeikis, Jessica Biel, Maisie Williams,Comedy
+8,split,M. Night Shyamalan , James McAvoy, Anya Taylor-Joy, Betty Buckley,Horror  Thriller
+9,xxx: return of xander cage,D. J. Caruso , Vin Diesel, Samuel L. Jackson, Donnie Yen,Action  Adventure  Crime
+10,the resurrection of gavin stone,Dallas Jenkins , Brett Dalton, Anjelah Johnson, Neil Flynn,Comedy  Drama
+11,trespass against us,Adam Smith , Michael Fassbender, Brendan Gleeson, Lyndsey Marshal,Drama  Crime  Action
+12,sophie and the rising sun,Maggie Greenwald , Julianne Nicholson, Margo Martindale, Lorraine Toussaint,Drama
+13,a dog's purpose,Lasse Hallström , Britt Robertson, Dennis Quaid, Josh Gad,Comedy  Drama  Family  Fantasy  Adventure
+14,resident evil: the final chapter,Paul W. S. Anderson , Milla Jovovich, Ali Larter, Shawn Roberts,Action  Horror  Science Fiction
+15,lost in florence,Evan Oppenheimer , Brett Dalton, Stana Katic, Alessandra Mastronardi,Adventure  Drama  Romance
+16,i am michael,Justin Kelly , James Franco, Zachary Quinto, Emma Roberts,Drama
+17,iboy,Adam Randall , Bill Milner, Maisie Williams, Miranda Richardson,Action  Crime  Science Fiction
+18,rings,F. Javier Gutiérrez , Matilda Lutz, Alex Roe, Johnny Galecki,Horror
+19,the space between us,Peter Chelsom , Asa Butterfield, Britt Robertson, Gary Oldman,Romance  Adventure  Science Fiction  Drama
+20,youth in oregon,Joel David Moore , Frank Langella, Billy Crudup, Christina Applegate,Comedy  Drama
+21,i am not your negro,Raoul Peck , Samuel L. Jackson,unknown,unknown,Documentary
+22,growing up smith,Frank Lotito , Jason Lee, Anjul Nigam, Brighton Sharbino,Comedy  Family  Drama
+23,the lego batman movie,Chris McKay , Will Arnett, Zach Galifianakis, Michael Cera,Family  Action  Animation  Comedy  Fantasy
+24,fifty shades darker,James Foley , Dakota Johnson, Jamie Dornan, Kim Basinger,Drama  Romance
+25,john wick: chapter 2,Chad Stahelski , Keanu Reeves, Common, Bridget Moynahan,Thriller  Action  Crime
+26,bornless ones,Alexander Babaev , Michael Johnston, Margaret Judson, Bobby T,Horror
+27,the great wall,Zhang Yimou , Matt Damon, Jing Tian, Pedro Pascal,Action  Adventure  Fantasy
+28,a cure for wellness,Gore Verbinski , Dane DeHaan, Mia Goth, Jason Isaacs,Horror  Mystery  Science Fiction  Thriller
+29,fist fight,Richie Keen , Ice Cube, Charlie Day, Christina Hendricks,Comedy
+30,american fable,Anne Hamilton , Peyton Kennedy, Richard Schiff, Kip Pardue,Drama  Thriller
+31,xx,"Jovanka Vuckovic, Annie Clark, Roxanne Benjamin, Karyn Kusama ",Jovanka Vuckovic, Annie Clark, Roxanne Benjamin,Horror
+32,lovesong,So Yong Kim , Jena Malone, Riley Keough, Brooklyn Decker,Drama  Romance
+33,get out,Jordan Peele , Daniel Kaluuya, Allison Williams, Catherine Keener,Mystery  Thriller  Horror
+34,rock dog,Ash Brannon , Luke Wilson, Eddie Izzard, J. K. Simmons,Adventure  Animation  Comedy  Family  Music
+35,collide,Eran Creevy , Nicholas Hoult, Felicity Jones, Anthony Hopkins,Thriller  Action
+36,the girl with all the gifts,Colm McCarthy , Gemma Arterton, Glenn Close, Paddy Considine,Drama  Horror  Thriller  Science Fiction
+37,i don't feel at home in this world anymore,Macon Blair , Melanie Lynskey, Elijah Wood, David Yow,Comedy  Crime  Drama  Thriller
+38,contemporary color,"Turner Ross, Bill Ross IV ",Turner Ross, Bill Ross IV (directors),unknown,Documentary  Music
+39,logan,James Mangold , Hugh Jackman, Patrick Stewart, Boyd Holbrook,Action  Drama  Science Fiction
+40,the shack,Stuart Hazeldine , Sam Worthington, Radha Mitchell, Octavia Spencer,Drama  Fantasy
+41,before i fall,Ry Russo-Young , Zoey Deutch, Halston Sage, Logan Miller,Drama  Mystery  Thriller  Fantasy
+42,table 19,Jeffrey Blitz , Anna Kendrick, Amanda Crew, Stephen Merchant,Comedy  Drama
+43,the last word,Mark Pellington , Shirley MacLaine, Amanda Seyfried,unknown,Comedy  Drama
+44,catfight,Onur Tukel , Alicia Silverstone, Anne Heche, Sandra Oh,Comedy  Drama
+45,donald cried,Kristopher Avedisian , Kristopher Avedisian, Jesse Wakeman, Louisa Krause,Drama  Comedy
+46,kong: skull island,Jordan Vogt-Roberts , Tom Hiddleston, Brie Larson, Samuel L. Jackson,Action  Adventure  Fantasy
+47,burning sands,Gerard McMurray , Trevor Jackson, Alfre Woodard, Steve Harris,Drama
+48,beauty and the beast,Bill Condon , Emma Watson, Dan Stevens, Luke Evans,Romance  Family  Animation  Fantasy
+49,the belko experiment,Greg McLean , John Gallagher Jr., Tony Goldwyn, David Del Rio,Action  Thriller  Horror
+50,song to song,Terrence Malick , Ryan Gosling, Michael Fassbender, Rooney Mara,Drama  Romance
+51,atomica,Dagen Merrill , Dominic Monaghan, Tom Sizemore, Sarah Habel,Science Fiction  Thriller
+52,all nighter,Gavin Wiesen , J. K. Simmons, Emile Hirsch, Analeigh Tipton,Comedy
+53,the devil's candy,Sean Byrne , Ethan Embry, Shiri Appleby, Kiara Glasco,Drama  Horror  Thriller
+54,power rangers,Dean Israelite , Dacre Montgomery, Naomi Scott, RJ Cyler,Action  Adventure  Science Fiction
+55,life,Daniel Espinosa , Jake Gyllenhaal, Rebecca Ferguson, Ryan Reynolds,Thriller  Action  Crime
+56,chips,Dax Shepard , Dax Shepard, Michael Peña, Vincent D'Onofrio,Action  Comedy  Crime
+57,wilson,Craig Johnson , Woody Harrelson, Laura Dern, Isabella Amara,Comedy  Drama
+58,victor,Brandon Dickerson , Patrick Davis, Nick Eversman, Cortney Palm,Drama  Science Fiction  Thriller
+59,car dogs,Adam Collis , Patrick J. Adams, George Lopez, Nia Vardalos,Drama  Comedy
+60,walk of fame,Jesse Thomas , Scott Eastwood, Malcolm McDowell, Chris Kattan,Comedy
+61,the marine 5: battleground,James Nunn ," Mike ""The Miz"" Mizanin", Maryse Ouellet Mizanin, Curtis Axel,Action
+62,ghost in the shell,Rupert Sanders , Scarlett Johansson, Takeshi Kitano, Michael Pitt,Science Fiction  Action
+63,the boss baby,Tom McGrath , Alec Baldwin, Steve Buscemi, Jimmy Kimmel,Animation  Family  Comedy  Adventure  Fantasy
+64,the zookeeper's wife,Niki Caro , Jessica Chastain, Daniel Brühl, Johan Heldenbergh,Drama  History
+65,the blackcoat's daughter,Oz Perkins , Emma Roberts, Kiernan Shipka, Lucy Boynton,Horror  Thriller
+66,the discovery,Charlie McDowell , Jason Segel, Rooney Mara, Robert Redford,Drama  Romance  Science Fiction  Thriller  Mystery
+67,carrie pilby,Susan Johnson , Bel Powley, Vanessa Bayer, Colin O'Donoghue,Comedy  Drama
+0,the case for christ,Jon Gunn , Mike Vogel, Erika Christensen, Robert Forster,Drama
+1,smurfs: the lost village,Kelly Asbury , Demi Lovato, Mandy Patinkin, Jack McBrayer,Family  Adventure  Animation  Comedy
+2,going in style,Zach Braff , Morgan Freeman, Michael Caine, Alan Arkin,Crime  Comedy
+3,colossal,Nacho Vigalondo , Anne Hathaway, Jason Sudeikis, Dan Stevens,Drama  Fantasy  Science Fiction
+4,gifted,Marc Webb , Chris Evans, Mckenna Grace, Jenny Slate,Drama  Family  Comedy
+5,aftermath,Elliott Lester , Arnold Schwarzenegger, Scoot McNairy, Maggie Grace,Drama  Thriller
+6,the fate of the furious,F. Gary Gray , Vin Diesel, Dwayne Johnson, Michelle Rodriguez,Action  Crime  Thriller
+7,spark,Aaron Woodley , Jace Norman, Jessica Biel, Susan Sarandon,Adventure  Animation  Comedy  Family  Science Fiction
+8,the lost city of z,James Gray , Charlie Hunnam, Robert Pattinson, Tom Holland,Adventure  Drama  History
+9,my entire high school sinking into the sea,Dash Shaw , Jason Schwartzman, Reggie Watts, Lena Dunham,Animation  Comedy  Drama
+10,the outcasts,Peter Hutchings , Victoria Justice, Eden Sher, Ashley Rickards,Comedy
+11,born in china,Lu Chuan , John Krasinski, Zhou Xun (narrator),unknown,Documentary
+12,unforgettable,Denise Di Novi , Katherine Heigl, Rosario Dawson, Geoff Stults,Drama  Thriller
+13,the promise,Terry George , Oscar Isaac, Charlotte Le Bon, Christian Bale,History  Romance  Drama
+14,the circle,James Ponsoldt , Tom Hanks, Emma Watson, John Boyega,Drama  Thriller  Science Fiction
+15,how to be a latin lover,Ken Marino , Eugenio Derbez, Salma Hayek, Raphael Alejandro,Comedy
+16,sleight,J. D. Dillard , Jacob Latimore, Seychelle Gabriel, Dulé Hill,Drama  Thriller  Action  Science Fiction
+17,becoming bond,Josh Greenbaum , George Lazenby, Josh Lawson, Kassandra Clementi,Documentary  Comedy
+18,guardians of the galaxy vol. 2,James Gunn , Chris Pratt, Zoe Saldana, Dave Bautista,Action
+19,the lovers,Azazel Jacobs , Debra Winger, Tracy Letts, Aidan Gillen,Comedy
+20,3 generations,Gaby Dellal , Naomi Watts, Elle Fanning, Susan Sarandon,Comedy  Drama
+21,king arthur: legend of the sword,Guy Ritchie , Charlie Hunnam, Jude Law, Àstrid Bergès-Frisbey,Action  Drama  Fantasy
+22,snatched,Jonathan Levine , Amy Schumer, Goldie Hawn, Christopher Meloni,Action  Comedy
+23,lowriders,Ricardo de Montreuil , Demián Bichir, Gabriel Chavarria, Theo Rossi,Drama
+24,the wall,Doug Liman , Aaron Taylor-Johnson, John Cena,unknown,Thriller  War  Drama
+25,paris can wait,Eleanor Coppola , Diane Lane, Alec Baldwin, Arnaud Viard,Romance
+26,alien: covenant,Ridley Scott , Michael Fassbender, Katherine Waterston, Demián Bichir,Horror  Science Fiction  Mystery
+27,diary of a wimpy kid: the long haul,David Bowers , Jason Ian Drucker, Owen Asztalo, Charlie Wright,Comedy  Family
+28,"everything, everything",Stella Meghie , Amandla Stenberg, Nick Robinson, Anika Noni Rose,Drama  Romance
+29,wakefield,Robin Swicord , Bryan Cranston, Jennifer Garner, Victoria Bruno,Drama
+30,baywatch,Seth Gordon , Dwayne Johnson, Zac Efron, Priyanka Chopra,Action  Comedy  Crime
+31,pirates of the caribbean: dead men tell no tales,"Joachim Rønning, Espen Sandberg ", Johnny Depp, Javier Bardem, Geoffrey Rush,Adventure  Action  Fantasy  Comedy
+32,buena vista social club: adios,Lucy Walker ,Lucy Walker (director),unknown,unknown,Documentary  Music
+33,war machine,David Michôd , Michael Hastings (book); Brad Pitt, Anthony Michael Hall, Topher Grace,Comedy  Drama  War
+34,wonder woman,Patty Jenkins , Gal Gadot, Chris Pine, Connie Nielsen,Fantasy  Action  Adventure
+35,captain underpants: the first epic movie,David Soren , Kevin Hart, Ed Helms, Thomas Middleditch,Action  Animation  Comedy  Family
+36,dean,Demetri Martin , Demetri Martin, Kevin Kline, Gillian Jacobs,Romance  Comedy
+37,the mummy,Alex Kurtzman , Tom Cruise, Russell Crowe, Sofia Boutella,Fantasy  Thriller  Action  Adventure  Horror
+38,it comes at night,Trey Edward Shults , Joel Edgerton, Riley Keough, Christopher Abbott,Drama  Horror  Mystery
+39,my cousin rachel,Roger Michell , Rachel Weisz, Sam Claflin, Iain Glen,Drama  Romance
+40,megan leavey,Gabriela Cowperthwaite , Kate Mara, Edie Falco, Common,Drama  War
+41,beatriz at dinner,Miguel Arteta , Salma Hayek, Chloë Sevigny, Connie Britton,Comedy  Drama
+42,cars 3,Brian Fee , Owen Wilson, Cristela Alonzo, Chris Cooper,Animation  Adventure  Comedy  Drama
+43,rough night,Lucia Aniello , Scarlett Johansson, Zoë Kravitz, Kate McKinnon,Drama  Comedy
+44,all eyez on me,Benny Boom , Demetrius Shipp Jr., Kat Graham, Lauren Cohan,Music  Drama
+45,47 meters down,Johannes Roberts , Mandy Moore, Claire Holt, Matthew Modine,Horror  Drama  Thriller  Adventure
+46,the book of henry,Colin Trevorrow , Naomi Watts, Jacob Tremblay, Jaeden Lieberher,Drama  Crime  Thriller
+47,transformers: the last knight,Michael Bay , Mark Wahlberg, Josh Duhamel, Anthony Hopkins,Action  Adventure  Science Fiction  Fantasy
+48,the beguiled,unknown, Colin Farrell, Nicole Kidman, Kirsten Dunst,Drama
+49,the big sick,Michael Showalter , Kumail Nanjiani, Zoe Kazan, Holly Hunter,Comedy  Drama  Romance
+50,the bad batch,Ana Lily Amirpour , Suki Waterhouse, Jason Momoa, Giovanni Ribisi,Drama  Horror  Science Fiction
+51,baby driver,Edgar Wright , Ansel Elgort, Lily James, Jamie Foxx,Action  Crime
+52,okja,Bong Joon-ho , Tilda Swinton, Paul Dano, Ahn Seo-hyun,Adventure  Drama  Science Fiction  Action
+53,despicable me 3,"Pierre Coffin, Kyle Balda ", Steve Carell, Kristen Wiig, Trey Parker,Action  Animation  Comedy  Family  Adventure
+54,the house,Andrew J. Cohen , Will Ferrell, Amy Poehler, Ryan Simpkins,Comedy
+55,the little hours,Jeff Baena , Alison Brie, Dave Franco, Kate Micucci,Comedy
+56,inconceivable,Jonathan Baker , Nicolas Cage, Faye Dunaway, Gina Gershon,Thriller  Drama
+57,2:22,Paul Currie , Michiel Huisman, Teresa Palmer, Sam Reid,Drama  Thriller  Romance  Science Fiction  Mystery
+0,a ghost story,David Lowery , Casey Affleck, Rooney Mara,unknown,Drama  Fantasy  Romance
+1,spider-man: homecoming,Jon Watts , Tom Holland, Michael Keaton, Zendaya,Action  Adventure  Science Fiction  Drama
+2,war for the planet of the apes,Matt Reeves , Andy Serkis, Gabriel Chavarria, Woody Harrelson,Drama  Science Fiction  War
+3,wish upon,John Leonetti , Joey King, Ryan Phillippe, Ki Hong Lee,Adventure  Family  Fantasy
+4,dunkirk,Christopher Nolan , Fionn Whitehead, Tom Hardy, Cillian Murphy,War  Action  Drama
+5,girls trip,Malcolm D. Lee , Regina Hall, Queen Latifah, Jada Pinkett Smith,Comedy
+6,first kill,Steven C. Miller , Hayden Christensen, Bruce Willis, Gethin Anthony,Action  Thriller  Crime
+7,atomic blonde,David Leitch , Charlize Theron, James McAvoy, John Goodman,Action  Thriller
+8,the emoji movie,Tony Leondis , T. J. Miller, James Corden, Anna Faris,Animation  Family  Comedy
+9,an inconvenient sequel: truth to power,Bonni Cohen , Al Gore,unknown,unknown,Documentary
+10,detroit,Kathryn Bigelow , John Boyega, Will Poulter, Algee Smith,Crime  Drama  Thriller  History
+11,brigsby bear,Dave McCary , Kyle Mooney, Mark Hamill, Claire Danes,Comedy  Drama
+12,menashe,Joshua Z. Weinstein , Menashe Lustig, Ruben Nidorski, Yoel Weisshaus,Drama
+13,the dark tower,Nikolaj Arcel , Idris Elba, Matthew McConaughey, Tom Taylor,Fantasy  Action  Science Fiction  Adventure
+14,kidnap,Luis Prieto , Halle Berry, Sage Correa, Lew Temple,Drama  Thriller
+15,step,Amanda Lipitz , Blessin Giraldo, Cori Grainger, Tayla Solomon,Music  Drama  Romance  Crime
+16,wind river,Taylor Sheridan , Jeremy Renner, Elizabeth Olsen, Jon Bernthal,Crime  Drama  Mystery  Thriller
+17,armed response,John Stockwell , Wesley Snipes, Anne Heche, Dave Annable,Action  Horror  Thriller
+18,annabelle: creation,David F. Sandberg , Stephanie Sigman, Talitha Bateman, Lulu Wilson,Horror  Mystery  Thriller
+19,the glass castle,Destin Daniel Cretton , Brie Larson, Naomi Watts, Woody Harrelson,Drama
+20,the nut job 2: nutty by nature,Cal Brunker , Will Arnett, Katherine Heigl, Maya Rudolph,Family  Animation  Adventure  Comedy
+21,good time,Ben Safdie & Joshua Safdie , Robert Pattinson, Jennifer Jason Leigh, Ben Safdie,Crime  Drama  Thriller
+22,ingrid goes west,Matt Spicer , Aubrey Plaza, Elizabeth Olsen, O'Shea Jackson Jr.,Drama  Comedy
+23,the only living boy in new york,Marc Webb , Callum Turner, Kate Beckinsale, Pierce Brosnan,Drama
+24,the hitman's bodyguard,Patrick Hughes , Ryan Reynolds, Samuel L. Jackson, Gary Oldman,Thriller  Comedy  Crime  Action
+25,logan lucky,Steven Soderbergh , Channing Tatum, Adam Driver, Riley Keough,Action  Comedy  Crime  Drama
+26,patti cake$,Geremy Jasper , Danielle Macdonald, McCaul Lombardi,unknown,Drama  Music
+27,victor crowley,Adam Green , Kane Hodder, Tyler Mane, Parry Shen,Horror  Comedy
+28,all saints,Steve Gomer , John Corbett, Cara Buono,unknown,Drama  Comedy
+29,served like a girl,Lysa Heslov ,Lysa Heslov (director),unknown,unknown,Documentary
+30,beach rats,Eliza Hittman , Harris Dickinson, Madeline Weinstein, Kate Hodge,Drama  Romance
+31,film stars don't die in liverpool,Paul McGuigan , Annette Bening, Jamie Bell, Vanessa Redgrave,Romance  Drama
+32,tulip fever,Justin Chadwick , Alicia Vikander, Dane DeHaan, Christoph Waltz,Drama  Romance
+33,unlocked,Michael Apted , Noomi Rapace, Orlando Bloom, Toni Collette,Action  Thriller
+34,it,Andrés Muschietti , Jaeden Lieberher, Bill Skarsgård, Sophia Lillis,Horror  Fantasy
+35,home again,Hallie Meyers-Shyer , Reese Witherspoon, Candice Bergen, Michael Sheen,Comedy  Drama  Romance
+36,9/11,unknown,Charlie Sheen, Whoopi Goldberg,unknown,Drama
+37,the good catholic,Paul Shoulberg , Zachary Spicer, Wrenn Schmidt, John C. McGinley,Drama  Comedy
+38,gun shy,Simon West , Antonio Banderas, Olga Kurylenko,unknown,Action  Adventure  Comedy  Crime  Thriller
+39,fallen,Scott Hicks , Addison Timlin, Jeremy Irvine,unknown,Action  Thriller
+40,american assassin,Michael Cuesta , Dylan O'Brien, Michael Keaton, Sanaa Lathan,Action  Thriller
+41,mother!,Darren Aronofsky , Jennifer Lawrence, Javier Bardem, Michelle Pfeiffer,Drama  Horror  Mystery
+42,brad's status,Mike White , Ben Stiller, Michael Sheen, Luke Wilson,Comedy  Drama
+43,kingsman: the golden circle,Matthew Vaughn , Colin Firth, Julianne Moore, Taron Egerton,Action  Adventure  Comedy  Crime  Thriller
+44,the lego ninjago movie,Charlie Bean , Jackie Chan, Justin Theroux, Dave Franco,Family  Animation  Action  Adventure
+45,stronger,David Gordon Green , Jake Gyllenhaal, Tatiana Maslany, Miranda Richardson,Drama
+46,battle of the sexes,Jonathan Dayton and Valerie Faris , Emma Stone, Steve Carell, Andrea Riseborough,Comedy  Drama  History
+47,woodshock,unknown, Kirsten Dunst, Joe Cole, Pilou Asbæk,Thriller  Drama
+48,victoria & abdul,Stephen Frears , Judi Dench, Ali Fazal, Eddie Izzard,Drama  History
+49,jeepers creepers 3,Victor Salva , Jonathan Breck, Meg Foster, Brandon James,Horror  Mystery  Thriller
+50,american made,Doug Liman , Tom Cruise, Domhnall Gleeson, Sarah Wright,Action  Crime  Comedy
+51,flatliners,Niels Arden Oplev , Ellen Page, Diego Luna, Nina Dobrev,Drama  Horror  Thriller
+52,mark felt: the man who brought down the white house,Peter Landesman , Liam Neeson, Diane Lane, Marton Csokas,Drama  History  Thriller
+0,blade runner 2049,Denis Villeneuve , Harrison Ford, Ryan Gosling, Ana de Armas,Science Fiction  Drama
+1,the mountain between us,Hany Abu-Assad , Idris Elba, Kate Winslet, Dermot Mulroney,Romance  Adventure  Drama
+2,my little pony: the movie,Jayson Thiessen , Tara Strong, Ashleigh Ball, Andrea Libman,Family  Animation  Music  Adventure  Fantasy
+3,the florida project,Sean Baker , Willem Dafoe, Bria Vinaite, Brooklynn Prince,Drama
+4,brawl in cell block 99,S. Craig Zahler , Vince Vaughn, Jennifer Carpenter, Don Johnson,Action  Crime  Thriller
+5,happy death day,Christopher B. Landon , Jessica Rothe, Israel Broussard, Ruby Modine,Comedy  Horror  Science Fiction
+6,marshall,Reginald Hudlin , Chadwick Boseman, Josh Gad, Kate Hudson,Drama
+7,breathe,Andy Serkis , Andrew Garfield, Claire Foy, Tom Hollander,Horror
+8,goodbye christopher robin,Simon Curtis , Domhnall Gleeson, Margot Robbie, Kelly Macdonald,Family  History
+9,professor marston and the wonder women,Angela Robinson , Luke Evans, Rebecca Hall, Bella Heathcote,Drama  Romance
+10,blood money,Lucky McKee , John Cusack, Ellar Coltrane, Willa Fitzgerald,Thriller  Drama
+11,geostorm,Dean Devlin , Gerard Butler, Abbie Cornish, Alexandra Lara,Action  Science Fiction  Thriller
+12,only the brave,Joseph Kosinski , Ben Hardy, Jennifer Connelly, Taylor Kitsch,Drama  Action  History
+13,boo 2! a madea halloween,Tyler Perry , Tyler Perry, Cassi Davis, Patrice Lovely,Horror  Comedy
+14,same kind of different as me,Michael Carney , Renée Zellweger, Jon Voight, Djimon Hounsou,Drama
+15,leatherface,Julien Maury and Alexandre Bustillo , Stephen Dorff, Vanessa Grasse, Sam Strike,Horror  Thriller  Mystery
+16,wonderstruck,Todd Haynes , Oakes Fegley, Julianne Moore, Millicent Simmonds,Drama
+17,the killing of a sacred deer,Yorgos Lanthimos , Colin Farrell, Nicole Kidman, Barry Keoghan,Drama  Thriller  Mystery
+18,thank you for your service,Jason Hall , Miles Teller, Haley Bennett, Beulah Koale,Drama  War
+19,suburbicon,George Clooney , Matt Damon, Julianne Moore, Oscar Isaac,Thriller  Crime  Drama  Mystery
+20,jigsaw,The Spierig Brothers , Tobin Bell, Mandela Van Peebles, Laura Vandervoort,Horror  Crime  Mystery  Thriller
+21,novitiate,Maggie Betts , Margaret Qualley, Melissa Leo, Morgan Saylor,Drama
+22,all i see is you,Marc Forster , Blake Lively, Jason Clarke, Yvonne Strahovski,Mystery  Thriller
+23,amityville: the awakening,Franck Khalfoun , Bella Thorne, Jennifer Jason Leigh, Cameron Monaghan,Thriller  Horror
+24,thor: ragnarok,Taika Waititi , Chris Hemsworth, Tom Hiddleston, Cate Blanchett,Action  Adventure  Comedy  Fantasy  Science Fiction
+25,a bad moms christmas,Jon Lucas , Mila Kunis, Kristen Bell, Kathryn Hahn,Comedy
+26,last flag flying,Richard Linklater , Steve Carell, Bryan Cranston, Laurence Fishburne,Drama  Comedy
+27,lady bird,Greta Gerwig , Saoirse Ronan, Laurie Metcalf, Tracy Letts,Drama  Comedy
+28,murder on the orient express,Kenneth Branagh , Kenneth Branagh, Penélope Cruz, Willem Dafoe,Mystery  Crime  Drama
+29,daddy's home 2,Sean Anders , Will Ferrell, Mark Wahlberg, Linda Cardellini,Comedy
+30,lbj,Rob Reiner , Woody Harrelson, Richard Jenkins, Bill Pullman,Drama  History
+31,"three billboards outside ebbing, missouri",Martin McDonagh , Frances McDormand, Woody Harrelson, Sam Rockwell,Crime  Drama
+32,mayhem,Joe Lynch , Steven Yeun, Samara Weaving, Steven Brand,Action  Comedy  Horror
+33,justice league,Zack Snyder , Ben Affleck, Henry Cavill, Gal Gadot,Action  Adventure  Fantasy  Science Fiction
+34,the star,Timothy Reckart , Steven Yeun, Gina Rodriguez, Zachary Levi,Comedy  Adventure  Family  Fantasy  Animation
+35,wonder,Stephen Chbosky , Julia Roberts, Jacob Tremblay, Owen Wilson,Fantasy  Action  Adventure
+36,cook off!,Cathryn Michon (director/screenplay); Guy Shalem , Cathryn Michon, Melissa McCarthy, Wendi McLendon-Covey,Comedy
+37,mr. roosevelt,Noël Wells , Noël Wells, Nick Thune, Britt Lower,Comedy
+38,"roman j. israel, esq.",Dan Gilroy ,Dan Gilroy (director/screenplay), Denzel Washington, Colin Farrell,Drama  Crime  Thriller
+39,coco,Lee Urich , Anthony Gonzalez, Gael García Bernal, Benjamin Bratt,Family  Animation  Fantasy  Music  Comedy  Adventure
+40,darkest hour,Joe Wright , Gary Oldman, Ben Mendelsohn, Kristin Scott Thomas,Drama  History
+41,the man who invented christmas,Bharat Nalluri , Dan Stevens, Christopher Plummer, Jonathan Pryce,Drama  History  Comedy  Family
+42,call me by your name,Luca Guadagnino , Timothée Chalamet, Armie Hammer, Michael Stuhlbarg,Romance  Drama
+43,the disaster artist,James Franco , James Franco, Dave Franco, Seth Rogen,Comedy  Drama
+44,the shape of water,Guillermo del Toro , Sally Hawkins, Michael Shannon, Richard Jenkins,Drama  Fantasy  Romance
+45,wonder wheel,Woody Allen , Kate Winslet, Justin Timberlake, Juno Temple,Drama
+46,"i, tonya",Craig Gillespie , Margot Robbie, Sebastian Stan, Allison Janney,Drama
+47,just getting started,Ron Shelton , Morgan Freeman, Tommy Lee Jones, Rene Russo,Action  Comedy
+48,star wars: the last jedi,Rian Johnson , Mark Hamill, Carrie Fisher, Adam Driver,Science Fiction  Action  Adventure
+49,ferdinand,Carlos Saldanha , John Cena, Kate McKinnon, Bobby Cannavale,Animation  Family  Adventure  Comedy
+50,beyond skyline,Liam O'Donnell , Frank Grillo, Bojana Novakovic, Callan Mulvey,Action  Science Fiction  Adventure  Horror
+51,jumanji: welcome to the jungle,Jake Kasdan , Dwayne Johnson, Kevin Hart, Jack Black,Action  Adventure  Comedy  Fantasy
+52,the greatest showman,Michael Gracey , Hugh Jackman, Zac Efron, Rebecca Ferguson,Drama
+53,pitch perfect 3,Trish Sie , Anna Kendrick, Anna Camp, Rebel Wilson,Comedy  Music
+54,downsizing,Alexander Payne , Matt Damon, Christoph Waltz, Hong Chau,Comedy  Drama  Science Fiction
+55,father figures,Lawrence Sher , Owen Wilson, Ed Helms, J. K. Simmons,Comedy
+56,the post,Steven Spielberg , Tom Hanks, Meryl Streep, Bruce Greenwood,Drama  History
+57,bright,David Ayer , Will Smith, Joel Edgerton, Noomi Rapace,Action  Fantasy  Thriller
+58,crooked house,Gilles Paquet-Brenner , Max Irons, Glenn Close, Gillian Anderson,Drama  Mystery  Crime  TV Movie
+59,hostiles,Scott Cooper , Christian Bale, Rosamund Pike, Wes Studi,Western  Drama  History
+60,all the money in the world,Ridley Scott , Michelle Williams, Mark Wahlberg, Christopher Plummer,Thriller  Drama  Crime  Mystery  History
+61,molly's game,Aaron Sorkin , Jessica Chastain, Idris Elba, Kevin Costner,Crime  Drama
+62,phantom thread,Paul Thomas Anderson , Daniel Day-Lewis, Lesley Manville, Richard Graham,Drama  Romance
+0,insidious: the last key,Adam Robitel , Lin Shaye, Angus Sampson, Leigh Whannell,Horror  Mystery  Thriller
+1,the strange ones,Lauren Wolkstein , Alex Pettyfer, James Freedson-Jackson, Emily Althaus,Thriller  Drama
+2,stratton,Simon West , Dominic Cooper, Austin Stowell, Gemma Chan,Action  Thriller
+3,sweet country,Warwick Thornton , Bryan Brown, Sam Neill,unknown,Drama  History  Western
+4,the commuter,Jaume Collet-Serra , Liam Neeson, Vera Farmiga, Patrick Wilson,Action  Thriller
+5,proud mary,Babak Najafi , Taraji P. Henson, Billy Brown, Danny Glover,Thriller  Action  Crime
+6,acts of violence,Brett Donowho , Bruce Willis, Cole Hauser, Shawn Ashmore,Action
+7,freak show,Trudie Styler , Alex Lawther, Abigail Breslin, Bette Midler,Comedy  Drama
+8,humor me,Sam Hoffman , Jemaine Clement, Elliott Gould, Ingrid Michaelson,Comedy
+9,vazante,Daniela Thomas , Adriano Carvalho, Luana Nastas,unknown,Drama
+10,mary and the witch's flower,Hiromasa Yonebayashi , Ruby Barnhill, Louis Ashbourne Serkis, Kate Winslet,Fantasy  Adventure  Animation
+11,12 strong,Nicolai Fuglsig , Chris Hemsworth, Michael Shannon, Michael Peña,War  Drama  Action  History
+12,den of thieves,Christian Gudegast , Gerard Butler, 50 Cent, Pablo Schreiber,Action  Thriller  Crime
+13,forever my girl,Bethany Ashton Wolf , Alex Roe, Jessica Rothe, John Benjamin Hickey,Romance  Drama  Music
+14,maze runner: the death cure,Wes Ball , Dylan O'Brien, Kaya Scodelario, Thomas Brodie-Sangster,Science Fiction  Action
+15,the insult,Ziad Doueiri , Adel Karam, Camille Salameh, Kamel El Basha,Comedy  Crime
+16,please stand by,Ben Lewin , Dakota Fanning, Toni Collette, Alice Eve,Comedy  Drama
+17,winchester,The Spierig Brothers , Helen Mirren, Jason Clarke, Sarah Snook,Thriller  Horror
+18,a fantastic woman,Sebastián Lelio , Daniela Vega, Francisco Reyes,unknown,Drama
+19,armed,Mario Van Peebles , Mario Van Peebles, William Fichtner, Ryan Guzman,Action  Horror  Thriller
+20,the cloverfield paradox,Julius Onah , Daniel Brühl, Elizabeth Debicki, Aksel Hennie,Action  Science Fiction  Thriller  Horror
+21,bad apples,Bryan Coyne , Brea Grant, Graham Skipper, Aly Fitzgerald,Horror
+22,peter rabbit,Will Gluck , James Corden, Domhnall Gleeson, Rose Byrne,Animation  Adventure  Family
+23,fifty shades freed,James Foley , Dakota Johnson, Jamie Dornan, Kim Basinger,Drama  Romance
+24,the 15:17 to paris,Clint Eastwood , Anthony Sadler, Alek Skarlatos, Spencer Stone,History  Drama  Thriller
+25,la boda de valentina,Marco Polo Constandse , Omar Chaparro, Marimar Vega, Ryan Carnes,Comedy
+26,kri,Surendra Poudel , Anmol K.C., Aditi Budhathoki, Anoop Bikram Shahi,
+27,permission,Brian Crano , Rebecca Hall, Dan Stevens, Morgan Spector,Comedy  Romance  Drama
+28,monster family,Holger Tappe , Emily Watson, Jason Isaacs, Nick Frost,
+29,golden exits,Alex Ross Perry , Emily Browning, Adam Horowitz, Mary-Louise Parker,Drama
+30,black panther,unknown, Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o,Action  Adventure  Science Fiction
+31,early man,Nick Park , Eddie Redmayne, Tom Hiddleston, Maisie Williams,Family  Comedy  Animation  Adventure
+32,loveless,Andrey Zvyagintsev , Maryana Spivak, Alexei Rozin, Matvey Novikov,Comedy  Romance
+33,the party,Sally Potter , Timothy Spall, Kristin Scott Thomas, Patricia Clarkson,Comedy
+34,nostalgia,Mark Pellington , Jon Hamm, Nick Offerman, Amber Tamblyn,Drama
+35,black '47,Lance Daly , Hugo Weaving, Jim Broadbent, Stephen Rea,Drama  Western
+36,samson,Bruce Macdonald , Taylor James, Jackson Rathbone, Billy Zane,Action  Drama  Adventure
+37,game night,"Jonathan Goldstein, John Francis Daley ", Jason Bateman, Rachel McAdams, Kyle Chandler,Mystery  Comedy  Crime
+38,annihilation,Alex Garland , Natalie Portman, Jennifer Jason Leigh, Gina Rodriguez,Action  Science Fiction  Horror  Mystery
+39,every day,Michael Sucsy , Angourie Rice, Maria Bello, Debby Ryan,Drama  Fantasy  Romance
+40,the cured,David Freyne , Ellen Page, Sam Keeley, Tom Vaughan-Lawlor,Horror  Drama  Science Fiction
+41,the lodgers,Brian O'Malley , Charlotte Vega, Bill Milner, Eugene Simon,Drama  Horror  Romance  Thriller
+42,red sparrow,Francis Lawrence , Jennifer Lawrence, Joel Edgerton, Matthias Schoenaerts,Mystery  Thriller
+43,death wish,Eli Roth , Bruce Willis, Vincent D'Onofrio, Dean Norris,Action  Crime  Drama  Thriller
+44,the vanishing of sidney hall,Shawn Christensen , Logan Lerman, Elle Fanning, Michelle Monaghan,Drama  Mystery
+45,foxtrot,Samuel Maoz , Lior Ashkenazi, Sarah Adler, Yonatan Shiray,Comedy  Drama  War
+46,pickings,Usher Morgan , Elyse Price, Joel Bernard, Katie Vincent,Action  Crime  Thriller  Drama  Mystery
+47,a wrinkle in time,Ava DuVernay , Storm Reid, Oprah Winfrey, Reese Witherspoon,Adventure  Science Fiction  Family  Fantasy
+48,gringo,Nash Edgerton , David Oyelowo, Charlize Theron, Joel Edgerton,Comedy  Action
+49,thoroughbreds,Cory Finley , Olivia Cooke, Anya Taylor-Joy, Anton Yelchin,Drama  Thriller
+50,the death of stalin,Armando Iannucci , Steve Buscemi, Simon Russell Beale, Paddy Considine,Comedy  Drama  History
+51,the leisure seeker,Paolo Virzì , Donald Sutherland, Helen Mirren,unknown,Drama  Romance  Adventure
+52,the strangers: prey at night,Johannes Roberts , Christina Hendricks, Martin Henderson, Bailee Madison,Horror  Thriller
+53,the hurricane heist,Rob Cohen , Toby Kebbell, Maggie Grace, Ryan Kwanten,Action  Crime  Thriller
+54,tomb raider,Roar Uthaug , Alicia Vikander, Dominic West, Walton Goggins,Action  Adventure  Fantasy
+55,"love, simon",Greg Berlanti , Nick Robinson, Katherine Langford, Alexandra Shipp,Comedy  Drama  Romance
+56,i can only imagine,Jon Erwin , Cloris Leachman, Dennis Quaid, Priscilla Shirer,Music  Drama
+57,7 days in entebbe,José Padilha , Rosamund Pike, Daniel Brühl, Vincent Cassel,Thriller  Drama  Crime
+58,furlough,Laurie Collyer , Melissa Leo, Tessa Thompson, La La Anthony,Comedy
+59,josie,Eric England , Sophie Turner, Dylan McDermott, Jack Kilmer,Comedy  Music
+60,flower,Max Winkler , Zoey Deutch, Kathryn Hahn, Tim Heidecker,Drama  Comedy
+61,pacific rim: uprising,Steven S. DeKnight , John Boyega, Scott Eastwood, Cailee Spaeny,Action  Fantasy  Science Fiction  Adventure
+62,isle of dogs,Wes Anderson , Bryan Cranston, Edward Norton, Bill Murray,Adventure  Comedy  Animation
+63,sherlock gnomes,John Stevenson , James McAvoy, Emily Blunt, Johnny Depp,Animation  Family  Fantasy  Comedy  Adventure  Mystery
+64,unsane,Steven Soderbergh , Claire Foy, Joshua Leonard, Jay Pharoah,Horror  Thriller
+65,"paul, apostle of christ",Andrew Hyatt , James Faulkner, Jim Caviezel, Olivier Martinez,History  Drama
+66,final portrait,Stanley Tucci , Geoffrey Rush, Armie Hammer, Clémence Poésy,Drama  History
+67,midnight sun,Scott Speer , Bella Thorne, Patrick Schwarzenegger, Rob Riggle,Romance  Drama
+68,followers,Ryan Justice , Amanda Delaney, Justin Maina, Sean Michael Gloria,Thriller
+69,ready player one,Steven Spielberg , Tye Sheridan, Olivia Cooke, Ben Mendelsohn,Science Fiction  Adventure  Action
+70,tyler perry's acrimony,Tyler Perry , Taraji P. Henson, Lyriq Bent, Tika Sumpter,Thriller
+71,god's not dead: a light in darkness,Michael Mason , David A. R. White, John Corbett, Shane Harper,Drama
+72,gemini,Aaron Katz , Lola Kirke, Zoë Kravitz, Greta Lee,Science Fiction  Action  Drama  Thriller
+73,the last movie star,Adam Rifkin , Burt Reynolds, Ariel Winter, Clark Duke,Drama
+0,a quiet place,John Krasinski , John Krasinski, Emily Blunt, Millicent Simmonds,Horror  Drama  Science Fiction
+1,blockers,Kay Cannon , Leslie Mann, Ike Barinholtz, John Cena,Comedy
+2,you were never really here,Lynne Ramsay , Joaquin Phoenix, Ekaterina Samsonov, Alex Manette,Thriller  Drama
+3,chappaquiddick,John Curran , Jason Clarke, Kate Mara, Ed Helms,Drama  Thriller  History
+4,pandas,"Drew Fellman, David Douglas ", Kristen Bell,unknown,unknown,Documentary
+5,lean on pete,Andrew Haigh , Charlie Plummer, Chloë Sevigny, Travis Fimmel,Drama  Adventure
+6,the miracle season,Sean McNamara , Helen Hunt, William Hurt, Erin Moriarty,Drama
+7,beirut,Brad Anderson , Jon Hamm, Rosamund Pike, Dean Norris,Action  Thriller  Drama
+8,rampage,Brad Peyton , Dwayne Johnson, Naomie Harris, Malin Åkerman,Action
+9,truth or dare,Jeff Wadlow , Lucy Hale, Tyler Posey, Violett Beane,Thriller  Horror
+10,the rider,Chloé Zhao , Brady Jandreau,unknown,unknown,Drama  Western
+11,sgt. stubby: an american hero,Richard Lanni , Logan Lerman, Helena Bonham Carter, Gérard Depardieu,Animation  Adventure  Family  History  War
+12,i feel pretty,"Abby Kohn, Marc Silverstein ", Amy Schumer, Michelle Williams, Emily Ratajkowski,Comedy  Romance
+13,super troopers 2,Jay Chandrasekhar , Jay Chandrasekhar, Paul Soter, Steve Lemme,Comedy  Crime  Mystery
+14,traffik,Deon Taylor , Paula Patton, Omar Epps, Missi Pyle,Thriller  Horror
+15,the house of tomorrow,Peter Livolsi , Asa Butterfield, Nick Offerman, Ellen Burstyn,Drama
+16,liz and the blue bird,Naoko Yamada , Atsumi Tanezaki, Nao Tōyama,unknown,Animation  Drama  Music
+17,avengers: infinity war,Anthony Russo and Joe Russo , Robert Downey Jr., Chris Hemsworth, Mark Ruffalo,Adventure  Action  Science Fiction
+18,disobedience,Sebastián Lelio , Rachel Weisz, Rachel McAdams, Alessandro Nivola,Drama  Romance
+19,backstabbing for beginners,Per Fly , Ben Kingsley, Theo James, Jacqueline Bisset,Thriller  Drama  History
+20,kings,Deniz Gamze Ergüven , Halle Berry, Daniel Craig,unknown,Adventure  Drama  Action
+21,overboard,unknown, Anna Faris, Eugenio Derbez, Eva Longoria,Romance  Comedy
+22,tully,Jason Reitman , Charlize Theron, Mackenzie Davis, Mark Duplass,Drama
+23,bad samaritan,Dean Devlin , David Tennant, Robert Sheehan, Carlito Olivero,Thriller  Crime  Horror
+24,the cleanse,Bobby Miller , Johnny Galecki, Anna Friel, Oliver Platt,Drama  Comedy  Fantasy
+25,the guardians,Xavier Beauvois , Nathalie Baye,unknown,unknown,Family  Animation  Fantasy  Action  Adventure
+26,life of the party,Ben Falcone , Melissa McCarthy, Maya Rudolph, Molly Gordon,Comedy
+27,breaking in,James McTeigue , Gabrielle Union, Billy Burke, Richard Cabral,Thriller  Crime  Action  Horror
+28,the seagull,Michael Mayer , Saoirse Ronan, Annette Bening, Corey Stoll,Drama  Romance  Comedy
+29,terminal,Vaughn Stein , Margot Robbie, Simon Pegg, Dexter Fletcher,Comedy  Drama
+30,revenge,Coralie Fargeat , Matilda Lutz, Kevin Janssens, Vincent Colombe,Fantasy  Action  Adventure  Animation
+31,deadpool 2,David Leitch , Ryan Reynolds, Josh Brolin, Zazie Beetz,Action  Comedy  Adventure
+32,book club,Bill Holderman , Jane Fonda, Candice Bergen, Mary Steenburgen,Comedy  Romance  Drama
+33,first reformed,Paul Schrader , Ethan Hawke, Amanda Seyfried, Cedric Kyles,Drama
+34,pope francis: a man of his word,Wim Wenders , Pope Francis,unknown,unknown,Documentary
+35,show dogs,Raja Gosnell , Will Arnett, Natasha Lyonne, Ludacris,Adventure  Crime  Family  Comedy
+36,solo: a star wars story,Ron Howard , Alden Ehrenreich, Woody Harrelson, Emilia Clarke,Science Fiction  Adventure
+37,how to talk to girls at parties,John Cameron Mitchell , Elle Fanning, Alex Sharp, Nicole Kidman,Comedy  Music  Romance  Science Fiction
+38,in darkness,Anthony Byrne , Natalie Dormer, Emily Ratajkowski, Ed Skrein,Thriller  Mystery
+39,the misandrists,Bruce LaBruce , Susanne Sachße, Viva Ruiz, Kembra Pfahler,Drama
+40,future world,"James Franco, Bruce Thierry Cheung ", James Franco, Suki Waterhouse, Jeffrey Wahlberg,Science Fiction
+41,action point,Tim Kirkby , Johnny Knoxville, Chris Pontius,unknown,Comedy  Drama
+42,adrift,Baltasar Kormákur , Shailene Woodley, Sam Claflin,unknown,Thriller  Romance  Adventure
+43,upgrade,Leigh Whannell , Logan Marshall-Green, Betty Gabriel, Harrison Gilbertson,Action  Thriller  Science Fiction
+44,american animals,Bart Layton , Evan Peters, Barry Keoghan, Blake Jenner,Drama  Crime  Documentary
+45,social animals,Theresa Bennett , Noël Wells, Josh Radnor, Aya Cash,Comedy  Romance
+46,ocean's 8,Gary Ross , Sandra Bullock, Cate Blanchett, Anne Hathaway,Crime  Comedy  Action  Thriller
+47,won't you be my neighbor?,Morgan Neville , Fred Rogers,unknown,unknown,Documentary
+48,hereditary,Ari Aster , Toni Collette, Alex Wolff, Milly Shapiro,Horror  Mystery  Thriller
+49,hotel artemis,Drew Pearce , Jodie Foster, Sterling K. Brown, Sofia Boutella,Thriller  Science Fiction  Action
+50,superfly,Director X , Trevor Jackson, Jason Mitchell, Michael K. Williams,Action  Crime
+51,incredibles 2,Brad Bird , Craig T. Nelson, Holly Hunter, Sarah Vowell,Action  Adventure  Animation  Family
+52,tag,Jeff Tomsic , Ed Helms, Jeremy Renner, Jon Hamm,Comedy  Drama
+53,on chesil beach,Dominic Cooke , Saoirse Ronan, Billy Howle, Emily Watson,Drama  Romance
+54,gotti,Kevin Connolly , John Travolta, Kelly Preston, Stacy Keach,Crime  Drama  History  Thriller
+55,jurassic world: fallen kingdom,J.A. Bayona , Chris Pratt, Bryce Dallas Howard, Rafe Spall,Action  Adventure  Science Fiction
+56,boundaries,Shana Feste , Vera Farmiga, Christopher Plummer, Lewis MacDougall,Comedy  Drama
+57,damsel,unknown, Robert Pattinson, Mia Wasikowska,unknown,Comedy  Western
+58,the domestics,Mike P. Nelson , Tyler Hoechlin, Kate Bosworth, Lance Reddick,Thriller  Horror
+59,sicario: day of the soldado,Stefano Sollima , Benicio del Toro, Josh Brolin, Isabela Moner,Action  Crime  Drama  Thriller
+60,leave no trace,Debra Granik , Ben Foster, Thomasin McKenzie, Jeff Kober,Drama
+61,uncle drew,Charles Stone III , Kyrie Irving, Lil Rel Howery, Shaquille O'Neal,Comedy
+62,woman walks ahead,Susanna White , Jessica Chastain, Michael Greyeyes, Chaske Spencer,Drama  History  Western
+0,the first purge,Gerard McMurray , Y'lan Noel, Lex Scott Davis, Joivan Wade,Action  Science Fiction  Thriller  Horror  Crime
+1,ant-man and the wasp,Peyton Reed , Paul Rudd, Evangeline Lilly, Michael Peña,Action  Adventure  Science Fiction
+2,sorry to bother you,Boots Riley , Lakeith Stanfield, Tessa Thompson, Armie Hammer,Fantasy  Science Fiction  Comedy
+3,whitney,Kevin MacDonald , Whitney Houston,unknown,unknown,Documentary
+4,hotel transylvania 3: summer vacation,Genndy Tartakovsky , Adam Sandler, Andy Samberg, Selena Gomez,Family  Fantasy  Comedy  Animation
+5,skyscraper,Rawson Marshall Thurber , Dwayne Johnson, Neve Campbell, Chin Han,Action
+6,eighth grade,Bo Burnham , Elsie Fisher, Josh Hamilton, Emily Robinson,Comedy  Drama
+7,"don't worry, he won't get far on foot",Gus Van Sant , Joaquin Phoenix, Rooney Mara, Jonah Hill,Comedy  Drama
+8,shock and awe,Rob Reiner , Woody Harrelson, Tommy Lee Jones, James Marsden,Drama  History  Thriller
+9,mamma mia! here we go again,Ol Parker , Lily James, Amanda Seyfried, Pierce Brosnan,Comedy  Romance
+10,the equalizer 2,Antoine Fuqua , Denzel Washington, Ashton Sanders, Pedro Pascal,Action  Thriller  Crime
+11,blindspotting,Carlos López Estrada , Janina Gavankar, Ethan Embry, Daveed Diggs,Comedy  Drama
+12,unfriended: dark web,Stephen Susco , Colin Woodell, Rebecca Rittenhouse, Betty Gabriel,Horror  Mystery  Thriller
+13,bleach,Shinsuke Sato , Sota Fukushi, Hana Sugisaki,unknown,Action  Fantasy  Adventure
+14,gauguin – voyage de tahiti,Édouard Deluc , Vincent Cassel, Tuheï Adams, Malik Zidi,Drama  Romance
+15,mission: impossible – fallout,Christopher McQuarrie , Tom Cruise, Henry Cavill, Ving Rhames,Action  Adventure
+16,teen titans go! to the movies,Peter Rida Michail , Scott Menville, Khary Payton, Tara Strong,Animation  Action  Comedy  Science Fiction
+17,detective dee: the four heavenly kings,Tsui Hark ,Tsui Hark (director), Chang Chia-lu, Chen Kuo-Fu (screenplay),Mystery  Fantasy  Adventure  Action
+18,hot summer nights,Elijah Bynum , Timothée Chalamet, Maika Monroe, Alex Roe,Drama  Comedy
+19,puzzle,Marc Turtletaub , Kelly Macdonald, Irrfan Khan, David Denman,Drama
+20,christopher robin,Marc Forster , Ewan McGregor, Hayley Atwell, Jim Cummings,Adventure  Comedy  Family  Fantasy
+21,the darkest minds,Jennifer Yuh Nelson , Amandla Stenberg, Mandy Moore, Harris Dickinson,Science Fiction  Action  Drama  Romance  Adventure  Thriller
+22,the spy who dumped me,Susanna Fogel , Mila Kunis, Kate McKinnon, Justin Theroux,Action  Comedy
+23,the miseducation of cameron post,Desiree Akhavan , Chloë Grace Moretz, Sasha Lane, John Gallagher,Drama
+24,never goin' back,Augustine Frizzell , Maia Mitchell, Camila Morrone, Kyle Mooney,Comedy
+25,dog days,Ken Marino , Nina Dobrev, Finn Wolfhard, Vanessa Hudgens,Comedy  Romance  Drama
+26,the meg,Jon Turteltaub , Jason Statham, Li Bingbing, Rainn Wilson,Action  Science Fiction  Horror
+27,blackkklansman,Spike Lee , John David Washington, Adam Driver, Laura Harrier,Crime  Drama  History  Comedy
+28,slender man,Sylvain White , Joey King, Julia Goldani Telles, Jaz Sinclair,Mystery  Thriller  Horror
+29,a prayer before dawn,Jean-Stéphane Sauvaire , Joe Cole,unknown,unknown,Drama  Action  Crime
+30,crazy rich asians,Jon M. Chu , Constance Wu, Henry Golding, Gemma Chan,Comedy  Drama  Romance
+31,alpha,Albert Hughes , Kodi Smit-McPhee, Leonor Varela, Jens Hultén,Adventure  Drama
+32,mile 22,Peter Berg , Mark Wahlberg, John Malkovich, Lauren Cohan,Action  Thriller
+33,the wife,Björn Runge , Glenn Close, Jonathan Pryce, Christian Slater,Drama
+34,billionaire boys club,James Cox , Ansel Elgort, Taron Egerton, Kevin Spacey,Drama  Thriller
+35,"juliet, naked",Jesse Peretz , Ethan Hawke, Rose Byrne,unknown,Comedy  Drama  Romance
+36,down a dark hall,Rodrigo Cortés , AnnaSophia Robb, Uma Thurman, Isabelle Fuhrman,Thriller  Drama  Fantasy  Horror
+37,the happytime murders,Brian Henson , Melissa McCarthy, Maya Rudolph, Joel McHale,Action  Comedy  Crime
+38,searching,Aneesh Chaganty , John Cho, Debra Messing,unknown,Thriller  Mystery  Drama
+39,papillon,Michael Noer , Charlie Hunnam, Rami Malek,unknown,Drama  History  Crime
+40,a.x.l.,Oliver Daly , Alex Neustaedter, Becky G, Alex MacNicoll,Science Fiction  Action  Adventure  Family
+41,operation finale,Chris Weitz , Oscar Isaac, Ben Kingsley, Lior Raz,Drama  History  Thriller
+42,kin,"Jonathan Baker, Josh Baker ", Myles Truitt, Jack Reynor, Zoë Kravitz,Science Fiction  Action
+43,the little stranger,Lenny Abrahamson , Domhnall Gleeson, Ruth Wilson, Will Poulter,Mystery  Drama  Horror  History
+44,destination wedding,Victor Levin , Winona Ryder, Keanu Reeves,unknown,Romance  Comedy  Drama
+45,the nun,Corin Hardy , Demián Bichir, Taissa Farmiga, Jonas Bloquet,Horror  Mystery  Thriller
+46,peppermint,Pierre Morel , Jennifer Garner, John Ortiz, Juan Pablo Raba,Action  Thriller
+47,the predator,Shane Black , Boyd Holbrook, Trevante Rhodes, Jacob Tremblay,Science Fiction  Action  Thriller  Adventure  Horror  Comedy
+48,white boy rick,Yann Demange , Matthew McConaughey, Richie Merritt, Bel Powley,Crime  Drama
+49,a simple favor,Paul Feig , Anna Kendrick, Blake Lively, Henry Golding,Crime  Comedy  Mystery  Drama  Thriller
+50,the children act,Richard Eyre , Emma Thompson, Stanley Tucci, Fionn Whitehead,Drama
+51,lizzie,Craig William Macneill , Chloë Sevigny, Kristen Stewart, Jay Huguley,Crime  Drama  Thriller
+52,unbroken: path to redemption,Harold Cronk , Samuel Hunt, Merritt Patterson, Vanessa Bell Calloway,Drama
+53,hell house llc ii: the abaddon hotel,Stephen Cognetti , Vasile Flutur, Jillian Geurts, Joy Shatz,Horror
+54,the house with a clock in its walls,Eli Roth , Jack Black, Cate Blanchett, Owen Vaccaro,Fantasy  Family  Comedy
+55,life itself,Dan Fogelman , Oscar Isaac, Olivia Wilde, Mandy Patinkin,Documentary
+56,the sisters brothers,Jacques Audiard , John C. Reilly, Joaquin Phoenix, Jake Gyllenhaal,Western  Drama  Adventure
+57,assassination nation,Sam Levinson , Odessa Young, Suki Waterhouse, Hari Nef,Thriller  Comedy  Horror
+58,colette,Wash Westmoreland , Keira Knightley, Dominic West,unknown,Drama  History
+59,fahrenheit 11/9,Michael Moore ,Michael Moore (director/screenplay),unknown,unknown,Documentary
+60,my son,Christian Carion , Guillaume Canet, Melanie Laurent,unknown,Crime  Drama  Thriller
+61,"love, gilda",Lisa Dapolito , Gilda Radner,unknown,unknown,Documentary
+62,my hero academia: two heroes,Kenji Nagasaki , Justin Briner, Christopher R. Sabat, Clifford Chapin,Animation  Action  Comedy  Fantasy  Adventure
+63,smallfoot,Karey Kirkpatrick , Channing Tatum, James Corden, Zendaya,Family  Animation  Adventure  Fantasy
+64,night school,Malcolm D. Lee , Kevin Hart, Tiffany Haddish, Rob Riggle,Comedy
+65,the old man & the gun,David Lowery , Robert Redford, Casey Affleck, Danny Glover,Comedy  Crime  Drama
+66,hell fest,Gregory Plotkin , Bex Taylor-Klaus, Amy Forsyth, Reign Edwards,Horror
+0,power of the air,Dave Christiano , Nicholas X. Parsons, Patty Duke, Michael Gross,
+1,venom,Ruben Fleischer , Tom Hardy, Michelle Williams, Riz Ahmed,Science Fiction  Action
+2,a star is born,Bradley Cooper , Bradley Cooper, Lady Gaga, Sam Elliott,Drama  Romance  Music
+3,the hate u give,George Tillman Jr. , Amandla Stenberg, Regina Hall, Russell Hornsby,Crime  Drama
+4,the happy prince,Rupert Everett , Rupert Everett, Colin Firth, Colin Morgan,Drama
+5,first man,Damien Chazelle , Ryan Gosling, Claire Foy, Jason Clarke,History  Drama
+6,bad times at the el royale,Drew Goddard , Jeff Bridges, Cynthia Erivo, Dakota Johnson,Thriller  Drama  Mystery  Crime
+7,goosebumps 2: haunted halloween,Ari Sandel , Wendi McLendon-Covey, Madison Iseman, Jeremy Ray Taylor,Adventure  Comedy  Fantasy  Family  Horror
+8,beautiful boy,Felix van Groeningen , Steve Carell, Timothée Chalamet, Maura Tierney,Drama
+9,the oath,Ike Barinholtz , Ike Barinholtz, Tiffany Haddish, Nora Dunn,Comedy
+10,gosnell: the trial of america's biggest serial killer,Nick Searcy , Earl Billings, Dean Cain, Sarah Jane Morris,Drama  Crime
+11,after everything,Hannah Marks ,Hannah Marks (director), Joey Power (director), Jeremy Allen White,Comedy  Drama  Romance
+12,halloween,David Gordon Green , Jamie Lee Curtis, Judy Greer, Andi Matichak,Animation  Family  Mystery  Comedy  Crime
+13,can you ever forgive me?,Marielle Heller , Melissa McCarthy, Richard E. Grant,unknown,Drama  Crime  Comedy
+14,mid90s,Jonah Hill , Sunny Suljic, Lucas Hedges, Katherine Waterston,Drama
+15,wildlife,Paul Dano , Carey Mulligan, Jake Gyllenhaal, Ed Oxenbould,Drama
+16,what they had,Elizabeth Chomko , Hilary Swank, Michael Shannon, Robert Forster,Drama
+17,hunter killer,Donovan Marsh , Gerard Butler, Gary Oldman, Common,Action  Thriller
+18,johnny english strikes again,David Kerr , Rowan Atkinson, Olga Kurylenko, Ben Miller,Action  Adventure  Comedy
+19,suspiria,Luca Guadagnino , Dakota Johnson, Tilda Swinton, Mia Goth,Horror  Thriller
+20,indivisible,David G. Evans , Sarah Drew, Justin Bruening, Jason George,Drama  War
+21,bullitt county,David McCracken , Mike C. Nelson, Jenni Melear, David McCracken,Action  Drama  Thriller
+22,bohemian rhapsody,Bryan Singer , Rami Malek, Lucy Boynton, Gwilym Lee,Music  Drama  History
+23,the nutcracker and the four realms,"Lasse Hallström, Joe Johnston ", Keira Knightley, Mackenzie Foy, Eugenio Derbez,Fantasy  Adventure  Family
+24,nobody's fool,Tyler Perry , Tiffany Haddish, Tika Sumpter, Omari Hardwick,Comedy  Romance
+25,boy erased,Joel Edgerton , Lucas Hedges, Nicole Kidman, Russell Crowe,Drama
+26,a private war,Matthew Heineman , Rosamund Pike, Jamie Dornan, Stanley Tucci,Drama  War
+27,bodied,Joseph Kahn , Calum Worthy, Jackie Long, Rory Uphold,Drama  Comedy  Music
+28,the front runner,Jason Reitman , Hugh Jackman, Vera Farmiga, J. K. Simmons,Drama  History
+29,the grinch,"Yarrow Cheney, Scott Mosier ", Benedict Cumberbatch, Rashida Jones, Kenan Thompson,Animation  Family  Comedy  Fantasy
+30,the girl in the spider's web,Fede Alvarez , Claire Foy, Sverrir Gudnason, Lakeith Stanfield,Action  Crime  Thriller  Drama
+31,overlord,Julius Avery , Jovan Adepo, Wyatt Russell, Mathilde Ollivier,Horror  War  Science Fiction
+32,the ballad of buster scruggs,unknown, Tim Blake Nelson, Zoe Kazan, Liam Neeson,Comedy  Drama  Western  Music
+33,lazer team 2,Daniel Fabelo & Matt Hullum , Gavin Free, Michael Jones, Burnie Burns,Science Fiction  Action  Adventure  Comedy
+34,the marine 6: close quarters,James Nunn ," Chuck Norris (edited); Mike ""The Miz"" Mizanin", Shawn Michaels, Becky Lynch,Action  Drama
+35,conundrum: secrets among friends,Josh Webber , Shaun Cairo (Screenplay), Jo Marie Payton, Gary Leroi Gray,Drama  Thriller
+36,fantastic beasts: the crimes of grindelwald,David Yates , Eddie Redmayne, Katherine Waterston, Dan Fogler,Adventure  Fantasy  Drama
+37,widows,Steve McQueen , Viola Davis, Michelle Rodriguez, Elizabeth Debicki,Crime  Thriller
+38,instant family,Sean Anders , Mark Wahlberg, Rose Byrne, Isabela Moner,Comedy  Drama
+39,ralph breaks the internet,"Rich Moore, Phil Johnston ", John C. Reilly, Sarah Silverman, Gal Gadot,Family  Animation  Comedy  Adventure
+40,creed ii,Steven Caple Jr. , Michael B. Jordan, Sylvester Stallone, Tessa Thompson,Drama
+41,green book,Peter Farrelly , Viggo Mortensen, Mahershala Ali, Linda Cardellini,Drama  Comedy  Music
+42,robin hood,Otto Bathurst , Taron Egerton, Jamie Foxx, Ben Mendelsohn,Adventure  Action  Thriller
+43,roma,Alfonso Cuarón , Yalitza Aparicio, Marina de Tavira, Fernando Grediaga,Drama
+44,the favourite,Yorgos Lanthimos , Olivia Colman, Emma Stone, Rachel Weisz,Drama  History  Comedy
+45,mowgli: legend of the jungle,Andy Serkis , Rohan Chand, Christian Bale, Cate Blanchett,Adventure  Drama
+46,the possession of hannah grace,Diederik van Rooijen , Brian Sieve (writer); Shay Mitchell, Grey Damon, Kirby Johnson,Horror  Drama
+47,anna and the apocalypse,John McPhail , Ella Hunt, Malcolm Cumming, Marli Siu,Horror  Comedy  Fantasy
+48,capernaum,Nadine Labaki , Zain Al Rafeea, Yordanos Shiferaw, Boluwatife Treasure Bankole,Drama
+49,mary queen of scots,Josie Rourke , Saoirse Ronan, Margot Robbie, Jack Lowden,Drama  History
+50,ben is back,Peter Hedges , Lucas Hedges, Julia Roberts, Kathryn Newton,Drama
+51,spider-man: into the spider-verse,"Bob Persichetti, Peter Ramsey, Rodney Rothman ", Shameik Moore, Jake Johnson, Hailee Steinfeld,Action  Adventure  Animation  Science Fiction  Comedy
+52,mortal engines,Christian Rivers , Hugo Weaving, Hera Hilmar, Robert Sheehan,Adventure  Science Fiction
+53,the mule,Clint Eastwood , Clint Eastwood, Bradley Cooper, Laurence Fishburne,Crime  Drama  Thriller
+54,if beale street could talk,Barry Jenkins , Kiki Layne, Stephan James, Teyonah Parris,Romance  Drama
+55,mary poppins returns,Rob Marshall , Emily Blunt, Lin-Manuel Miranda, Ben Whishaw,Fantasy  Family  Comedy
+56,aquaman,James Wan , Jason Momoa, Amber Heard, Willem Dafoe,Action  Adventure  Fantasy
+57,bumblebee,Travis Knight , Hailee Steinfeld, John Cena, Jorge Lendeborg Jr.,Action  Adventure  Science Fiction
+58,welcome to marwen,Robert Zemeckis , Steve Carell, Leslie Mann, Diane Kruger,Drama  Comedy  Fantasy
+59,second act,Peter Segal , Jennifer Lopez, Leah Remini, Vanessa Hudgens,Romance  Comedy
+60,cold war,Paweł Pawlikowski , Joanna Kulig, Tomasz Kot, Agata Kulesza,Comedy  Romance
+61,holmes & watson,Etan Cohen , Will Ferrell, John C. Reilly, Rebecca Hall,Mystery  Adventure  Comedy  Crime
+62,vice,Adam McKay , Christian Bale, Amy Adams, Steve Carell,Thriller  Science Fiction  Action  Adventure
+63,on the basis of sex,Mimi Leder , Felicity Jones, Armie Hammer, Justin Theroux,Drama  History
+64,destroyer,Karyn Kusama , Nicole Kidman, Sebastian Stan, Toby Kebbell,Thriller  Crime  Drama  Action
+65,black mirror: bandersnatch,David Slade , Fionn Whitehead, Will Poulter, Asim Chaudhry,Science Fiction  Mystery  Drama  Thriller  TV Movie
+0,escape room,Adam Robitel , Taylor Russell, Logan Miller, Deborah Ann Woll,Thriller  Action  Mystery  Adventure  Horror
+1,rust creek,Jen McGowan , Hermione Corfield, Jay Paulson, Sean O'Bryan,Thriller  Drama
+2,american hangman,Wilson Coneybeare , Donald Sutherland, Vincent Kartheiser, Oliver Dennis,Thriller
+3,a dog's way home,Charles Martin Smith , Bryce Dallas Howard, Edward James Olmos, Alexandra Shipp,Drama  Adventure  Family
+4,the upside,Neil Burger , Bryan Cranston, Kevin Hart, Nicole Kidman,Comedy  Drama
+5,replicas,Jeffrey Nachmanoff , Keanu Reeves,unknown,unknown,Thriller  Science Fiction
+6,after darkness,Batán Silva , Natalia Dyer, Kyra Sedgwick, Tim Daly,Drama  Family  Thriller  Science Fiction
+7,glass,M. Night Shyamalan , James McAvoy, Bruce Willis, Samuel L. Jackson,Thriller  Drama  Science Fiction
+8,close,Vicky Jewson , Noomi Rapace, Sophie Nélisse, Indira Varma,Action  Thriller
+9,the standoff at sparrow creek,Henry Dunham , James Badge Dale, Brian Geraghty,unknown,Drama  Thriller  Mystery
+10,the final wish,Timothy Woodward Jr. , Lin Shaye, Michael Welch, Melissa Bolona,Horror
+11,the kid who would be king,Joe Cornish , Louis Ashbourne Serkis, Dean Chaumoo, Tom Taylor,Action  Adventure  Fantasy  Family
+12,serenity,Steven Knight , Matthew McConaughey, Anne Hathaway, Jason Clarke,Thriller  Mystery  Drama
+13,i am mother,Grant Sputore ,Grant Sputore (director), Michael Lloyd Green (screenplay/story), Clara Rugaard,Science Fiction  Thriller
+14,the vast of night,Andrew Patterson ,Andrew Patterson (director), James Montague, Craig W. Sanger (writers); Sierra McCormick,Mystery  Science Fiction  Drama  Thriller
+15,miss bala,Catherine Hardwicke , Gina Rodriguez, Ismael Cruz Córdova, Anthony Mackie,Action
+16,velvet buzzsaw,Dan Gilroy , Jake Gyllenhaal, Rene Russo, Toni Collette,Thriller  Mystery  Horror
+17,piercing,Nicolas Pesce , Christopher Abbott, Mia Wasikowska, Laia Costa,Thriller  Horror  Mystery
+18,the lego movie 2: the second part,Mike Mitchell , Chris Pratt, Elizabeth Banks, Tiffany Haddish,Action  Adventure  Animation  Comedy  Family
+19,what men want,Adam Shankman , Taraji P. Henson, Tracy Morgan, Max Greenfield,Comedy  Romance
+20,cold pursuit,Hans Petter Moland , Liam Neeson, Tom Bateman, Tom Jackson,Action  Crime  Thriller
+21,high flying bird,Steven Soderbergh , André Holland, Zazie Beetz, Melvin Gregg,Drama
+22,the prodigy,Nicholas McCarthy , Taylor Schilling, Peter Mooney, Colm Feore,Horror  Thriller
+23,isn't it romantic,Todd Strauss-Schulson , Rebel Wilson, Liam Hemsworth, Adam DeVine,Comedy  Fantasy  Romance
+24,happy death day 2u,Christopher Landon , Jessica Rothe, Israel Broussard, Phi Vu,Comedy  Horror  Science Fiction
+25,alita: battle angel,Robert Rodriguez , Rosa Salazar, Christoph Waltz, Jennifer Connelly,Action  Science Fiction  Adventure
+26,how to train your dragon: the hidden world,Dean DeBlois , Jay Baruchel, America Ferrera, Cate Blanchett,Animation  Family  Adventure
+27,fighting with my family,Stephen Merchant , Florence Pugh, Lena Headey, Nick Frost,Comedy  Drama  History
+28,tyler perry's a madea family funeral,Tyler Perry , Tyler Perry, Courtney Burrell, Patrice Lovely,Comedy
+29,greta,Neil Jordan , Isabelle Huppert, Chloë Grace Moretz, Maika Monroe,Drama  Mystery  Thriller
+30,triple frontier,J. C. Chandor , Ben Affleck, Oscar Isaac, Charlie Hunnam,Action  Thriller  Crime  Adventure
+31,captain marvel,unknown, Brie Larson, Samuel L. Jackson, Ben Mendelsohn,Action  Adventure  Science Fiction
+32,the kid,Vincent D'Onofrio , Ethan Hawke, Dane DeHaan, Jake Schur,Fantasy  Comedy  Family
+33,wonder park,unknown, Brianna Denski, Ken Hudson Campbell, Matthew Broderick,Comedy  Animation  Adventure  Family  Fantasy
+34,captive state,Rupert Wyatt , John Goodman, Ashton Sanders, Jonathan Majors,Science Fiction
+35,nancy drew and the hidden staircase,Katt Shea , Sophia Lillis, Zoe Renee, Mackenzie Graham,Crime  Family  Comedy  Drama  Mystery
+36,the aftermath,James Kent , Alexander Skarsgård, Keira Knightley, Jason Clarke,Drama  Romance  War
+37,five feet apart,Justin Baldoni , Cole Sprouse, Haley Lu Richardson,unknown,Romance  Drama
+38,the highwaymen,John Lee Hancock , Kevin Costner, Woody Harrelson, Kathy Bates,Crime  Drama  Thriller
+39,red 11,Robert Rodriguez , Roby Attal, Lauren Hatfield, Alejandro Rose Garcia,Thriller  Science Fiction
+40,never grow old,Ivan Kavanagh , Emile Hirsch, Tim Ahern, Déborah François,Western
+41,triple threat,Jesse V. Johnson , Tony Jaa, Iko Uwais, Tiger Chen,Thriller  Action
+42,us,Jordan Peele , Lupita Nyong'o, Winston Duke, Shahadi Wright Joseph,Horror
+43,hotel mumbai,Anthony Maras , Dev Patel, Armie Hammer, Nazanin Boniadi,History  Drama  Action  Thriller
+44,the dirt,Jeff Tremaine , Douglas Booth, Iwan Rheon, Machine Gun Kelly,Drama  Music  History
+45,dragged across concrete,S. Craig Zahler , Mel Gibson, Vince Vaughn, Michael Jai White,Crime  Action  Thriller
+46,dumbo,Tim Burton , Colin Farrell, Michael Keaton, Danny DeVito,Animation  Family
+47,the beach bum,Harmony Korine , Matthew McConaughey, Zac Efron, Jonah Hill,Comedy
+48,unplanned,"Chuck Konzelman, Cary Soloman ", Ashley Bratcher, Brooks Ryan, Robia Scott,Drama
+0,shazam!,David F. Sandberg , Zachary Levi, Asher Angel, Mark Strong,Action  Comedy  Fantasy
+1,pet sematary,"Kevin Kolsch, Dennis Widmyer ", Jason Clarke, Amy Seimetz, John Lithgow,Horror
+2,the best of enemies,Robin Bissell , Taraji P. Henson, Sam Rockwell,unknown,Drama  History
+3,high life,Claire Denis , Robert Pattinson, Juliette Binoche, André Benjamin,Science Fiction  Drama  Mystery  Thriller
+4,unicorn store,Brie Larson , Brie Larson, Samuel L. Jackson, Joan Cusack,Fantasy  Drama  Comedy
+5,the haunting of sharon tate,Daniel Farrands , Hilary Duff, Jonathan Bennett, Lydia Hearst,Horror  Thriller
+6,the wind,Emma Tammi , Caitlin Gerard, Ashley Zukerman, Julia Goldani Telles,Horror  Western  Thriller
+7,the silence,John R. Leonetti , Kiernan Shipka, Stanley Tucci, Miranda Otto,Drama  Thriller  Fantasy  Horror
+8,hellboy,Neil Marshall , David Harbour, Milla Jovovich, Ian McShane,Fantasy  Action  Adventure  Science Fiction
+9,little,Tina Gordon , Issa Rae, Regina Hall, Marsai Martin,Thriller  Crime
+10,missing link,Chris Butler , Hugh Jackman, Zach Galifianakis, Zoe Saldana,Animation  Comedy  Adventure  Fantasy  Family
+11,after,Jenny Gage , Josephine Langford, Hero Fiennes Tiffin, Selma Blair,Romance  Drama  Comedy
+12,her smell,Alex Ross Perry , Elisabeth Moss, Cara Delevingne, Dan Stevens,Drama  Music
+13,breakthrough,Roxann Dawson , Chrissy Metz, Josh Lucas, Topher Grace,Drama
+14,penguins,Alastair Fothergill , Ed Helms,unknown,unknown,Family  Animation  Adventure  Comedy
+15,the curse of la llorona,Michael Chaves , Linda Cardellini, Raymond Cruz, Patricia Velasquez,Horror  Thriller  Mystery
+16,under the silver lake,David Robert Mitchell , Andrew Garfield, Riley Keough, Topher Grace,Crime  Drama  Mystery
+17,family,Laura Steinel , Taylor Schilling, Brian Tyree Henry, Bryn Vale,Comedy  Drama
+18,fast color,Julia Hart , Gugu Mbatha-Raw, Lorraine Toussaint, Saniyya Sidney,Thriller  Drama  Science Fiction
+19,someone great,Jennifer Kaytin Robinson , Gina Rodriguez, Brittany Snow, DeWanda Wise,Comedy  Romance
+20,i spit on your grave: deja vu,Meir Zarchi , Camille Keaton, Maria Olsen, Meir Zarchi,Horror  Thriller
+21,avengers: endgame,Anthony and Joe Russo , Robert Downey Jr., Chris Evans, Mark Ruffalo,Adventure  Science Fiction  Action
+22,i trapped the devil,Josh Lobo , A. J. Bowen, Scott Poythress, Susan Burke,Horror
+23,body at brighton rock,Roxanne Benjamin , Karina Fontes, Casey Adams, Emily Althaus,Thriller
+24,buffaloed,Tanya Wexler , Zoey Deutch, Jermaine Fowler, Judy Greer,Comedy  Drama  Romance
+25,long shot,Jonathan Levine , Seth Rogen, Charlize Theron, O'Shea Jackson Jr.,Comedy  Romance
+26,the intruder,Deon Taylor , Dennis Quaid, Michael Ealy, Meagan Good,Thriller
+27,uglydolls,Kelly Asbury , Kelly Clarkson, Pitbull, Nick Jonas,Family  Animation  Comedy  Adventure  Fantasy  Music
+28,"extremely wicked, shockingly evil and vile",Joe Berlinger , Zac Efron, Lily Collins, Kaya Scodelario,Thriller  Crime  Drama
+29,the last summer,William Bindley , KJ Apa, Maia Mitchell, Jacob Latimore,Romance  Comedy
+30,pokémon detective pikachu,Rob Letterman , Ryan Reynolds, Justice Smith, Kathryn Newton,Action  Adventure  Fantasy
+31,the hustle,Chris Addison , Anne Hathaway, Rebel Wilson, Alex Sharp,Comedy
+32,tolkien,Dome Karukoski , Nicholas Hoult, Lily Collins, Colm Meaney,Drama  History  War  Romance
+33,poms,Zara Hayes , Diane Keaton, Jacki Weaver, Pam Grier,Comedy  Drama
+34,the professor and the madman,unknown, Mel Gibson, Sean Penn, Natalie Dormer,Drama  History  Mystery  Thriller
+35,john wick: chapter 3 – parabellum,Chad Stahelski , Keanu Reeves, Halle Berry, Laurence Fishburne,Action  Thriller  Crime
+36,a dog's journey,Gail Mancuso , Dennis Quaid, Josh Gad, Marg Helgenberger,Family  Adventure  Drama
+37,the sun is also a star,Ry Russo-Young , Yara Shahidi, Charles Melton, John Leguizamo,Romance  Drama
+38,the professor,Wayne Roberts , Johnny Depp, Rosemarie DeWitt, Danny Huston,Comedy  Drama
+39,the souvenir,Joanna Hogg , Honor Swinton Byrne, Tom Burke, Tilda Swinton,Romance  Drama
+40,the tomorrow man,unknown, John Lithgow, Blythe Danner, Derek Cecil,Drama  Romance
+41,aladdin,Guy Ritchie , Mena Massoud, Will Smith, Naomi Scott,Adventure  Fantasy  Romance  Family
+42,brightburn,David Yarovesky , Elizabeth Banks, David Denman, Jackson A. Dunn,Horror  Thriller  Science Fiction
+43,booksmart,Olivia Wilde , Kaitlyn Dever, Beanie Feldstein, Jessica Williams,Comedy
+44,the perfection,Richard Shepard , Allison Williams, Logan Browning, Steven Weber,Thriller  Horror  Drama
+45,always be my maybe,Nahnatchka Khan , Ali Wong, Randall Park, Daniel Dae Kim,Romance  Comedy
+46,godzilla: king of the monsters,Michael Dougherty , Kyle Chandler, Vera Farmiga, Millie Bobby Brown,Science Fiction  Action
+47,rocketman,Dexter Fletcher , Taron Egerton, Jamie Bell, Richard Madden,Music  Drama  History
+48,ma,Tate Taylor , Octavia Spencer, Juliette Lewis, Diana Silvers,Horror
+49,dark phoenix,Simon Kinberg , James McAvoy, Michael Fassbender, Jennifer Lawrence,Science Fiction  Action  Adventure
+50,the secret life of pets 2,Chris Renaud , Patton Oswalt, Eric Stonestreet, Kevin Hart,Adventure  Animation  Comedy  Family
+51,late night,Nisha Ganatra , Emma Thompson, Mindy Kaling, Max Casella,Comedy  Drama
+52,the last black man in san francisco,Joe Talbot , Jimmie Fails, Jonathan Majors, Danny Glover,Drama
+53,changeland,Seth Green , Breckin Meyer, Macaulay Culkin, Brenda Song,Comedy  Drama
+54,men in black: international,F. Gary Gray , Chris Hemsworth, Tessa Thompson, Kumail Nanjiani,Comedy  Science Fiction
+55,shaft,Tim Story , Samuel L. Jackson, Jessie Usher, Richard Roundtree,Action  Crime
+56,the dead don't die,Jim Jarmusch , Bill Murray, Adam Driver, Tilda Swinton,Comedy  Horror  Fantasy
+57,murder mystery,Kyle Newacheck , Adam Sandler, Jennifer Aniston, Luke Evans,Comedy  Crime  Mystery  Action
+58,plus one,"Jeff Chan, Andrew Rhymer ", Maya Erskine, Jack Quaid, Beck Bennett,Romance  Comedy  Drama
+59,being frank,Miranda Bailey , Jim Gaffigan, Logan Miller, Samantha Mathis,Comedy
+60,toy story 4,Josh Cooley , Tom Hanks, Tim Allen, Annie Potts,Adventure  Animation  Comedy  Family  Fantasy  Drama
+61,anna,Luc Besson , Sasha Luss, Helen Mirren, Luke Evans,Thriller  Action
+62,child's play,Lars Klevberg , Aubrey Plaza, Gabriel Bateman, Brian Tyree Henry,Horror
+63,annabelle comes home,Gary Dauberman , Mckenna Grace, Madison Iseman, Katie Sarife,Horror  Thriller  Mystery
+64,yesterday,Danny Boyle , Himesh Patel, Lily James, Ed Sheeran,Music  Comedy  Romance  Fantasy
+65,ophelia,Claire McCarthy , Daisy Ridley, Naomi Watts, Clive Owen,Romance  History
+66,killers anonymous,Martin Owen , Tommy Flanagan, Rhyon Nicole Brown, Jessica Alba,Action  Thriller  Crime  Mystery
+0,spider-man: far from home,Jon Watts , Tom Holland, Samuel L. Jackson, Zendaya,Action  Adventure  Science Fiction
+1,escape plan: the extractors,John Herzfeld , Sylvester Stallone, Curtis Jackson, Dave Bautista,Action  Thriller  Crime
+2,midsommar,Ari Aster , Florence Pugh, Jack Reynor, William Jackson Harper,Horror  Drama  Mystery
+3,stuber,Michael Dowse , Kumail Nanjiani, Dave Bautista, Iko Uwais,Action  Comedy  Thriller  Crime
+4,crawl,Alexandre Aja , Kaya Scodelario, Barry Pepper,unknown,Thriller  Horror  Drama
+5,point blank,Joe Lynch , Frank Grillo, Anthony Mackie, Marcia Gay Harden,Action  Thriller
+6,the farewell,Lulu Wang , Awkwafina, Tzi Ma, Diana Lin,Comedy  Drama
+7,darlin',Pollyanna Mcintosh , Pollyanna McIntosh, Cooper Andrews, Nora-Jane Noone,Horror  Mystery
+8,the lion king,Jon Favreau , Donald Glover, Seth Rogen, Chiwetel Ejiofor,Family  Animation  Drama
+9,once upon a time in hollywood,Quentin Tarantino , Leonardo DiCaprio, Brad Pitt, Margot Robbie,Comedy  Drama  Thriller
+10,skin,Guy Nattiv , Jamie Bell, Danielle Macdonald, Daniel Henshall,Drama
+11,the red sea diving resort,Gideon Raff , Chris Evans, Haley Bennett, Michael K. Williams,Drama  Thriller  History
+12,fast & furious presents: hobbs & shaw,David Leitch , Dwayne Johnson, Jason Statham, Idris Elba,Action  Adventure  Comedy
+13,a score to settle,Shawn Ku , Nicolas Cage, Benjamin Bratt,unknown,Action  Thriller  Drama
+14,the operative,Yuval Adler , Diane Kruger, Martin Freeman, Cas Anvar,Drama  Thriller
+15,dora and the lost city of gold,James Bobin , Isabela Moner, Eugenio Derbez, Michael Peña,Adventure  Comedy  Family
+16,the kitchen,Andrea Berloff , Melissa McCarthy, Tiffany Haddish, Elisabeth Moss,Action  Crime  Drama
+17,the art of racing in the rain,Simon Curtis , Milo Ventimiglia, Amanda Seyfried, Kathy Baker,Comedy  Drama  Romance
+18,scary stories to tell in the dark,André Øvredal , Zoe Colletti, Michael Garza, Gabriel Rush,Horror  Thriller
+19,the peanut butter falcon,"Tyler Nilson, Michael Schwartz ", Shia LaBeouf, Dakota Johnson, John Hawkes,Adventure  Drama  Comedy
+20,after the wedding,Bart Freundlich , Michelle Williams, Julianne Moore, Billy Crudup,Drama
+21,light of my life,Casey Affleck , Casey Affleck, Anna Pniowsky, Tom Bower,Drama  Science Fiction
+22,the angry birds movie 2,Thurop Van Orman , Jason Sudeikis, Josh Gad, Leslie Jones,Animation  Comedy  Adventure  Family
+23,good boys,Gene Stupnitsky , Jacob Tremblay, Brady Noon, Keith L. Williams,Comedy
+24,blinded by the light,Gurinder Chadha , Viveik Kalra, Kulvinder Ghir, Meera Ganatra,Drama  Comedy
+25,"where'd you go, bernadette",Richard Linklater , Cate Blanchett, Billy Crudup, Emma Nelson,Drama  Comedy  Mystery
+26,47 meters down: uncaged,Johannes Roberts , John Corbett, Nia Long, Sophie Nelisse,Horror
+27,gwen,William McGregor , Maxine Peake, Eleanor Worthington Cox, Richard Harrington,Drama  Mystery  Horror  History
+28,ready or not,"Matt Bettinelli-Olpin, Tyler Gillett ", Samara Weaving, Adam Brody, Mark O'Brien,Horror  Thriller  Mystery  Comedy
+29,angel has fallen,Ric Roman Waugh , Gerard Butler, Morgan Freeman, Jada Pinkett Smith,Action  Thriller
+30,brittany runs a marathon,Paul Downs Colaizzo , Jillian Bell, Michaela Watkins, Utkarsh Ambudkar,Drama  Comedy
+31,overcomer,Alex Kendrick , Alex Kendrick, Priscilla Shirer, Ben Davies,Drama
+32,jacob's ladder,David M. Rosenthal , Michael Ealy, Jesse Williams, Nicole Beharie,Drama  Mystery  Horror
+33,burn,Mike Gan , Tilda Cobham-Hervey, Suki Waterhouse, Harry Shum Jr.,Thriller
+34,official secrets,Gavin Hood , Keira Knightley, Matt Smith, Matthew Goode,Drama  Thriller  History
+35,don't let go,Jacob Aaron Estes , Jacob Aaron Estes, Drew Daywalt (story); David Oyelowo, Storm Reid,Science Fiction  Thriller  Mystery  Crime
+36,itsy bitsy,Micah Gallo , Bruce Davison, Denise Crosby, Elizabeth Roberts,Horror  Thriller
+37,the fanatic,Fred Durst , John Travolta, Devon Sawa, Ana Golja,Thriller  Crime  Mystery
+38,it chapter two,Andy Muschietti , James McAvoy, Jessica Chastain, Bill Hader,Horror  Fantasy
+39,satanic panic,Chelsea Stardust , Hayley Griffith, Ruby Modine, Arden Myrin,Horror
+40,the obituary of tunde johnson,Ali LeRoi , Steven Silver, Nicola Peltz,unknown,Drama  Thriller
+41,the goldfinch,John Crowley , Ansel Elgort, Oakes Fegley, Aneurin Barnard,Drama
+42,hustlers,Lorene Scafaria , Constance Wu, Jennifer Lopez, Julia Stiles,Drama  Comedy  Crime
+43,the sound of silence,Michael Tyburski , Rashida Jones, Peter Sarsgaard, Tony Revolori,Drama
+44,monos,Alejandro Landes , Julianne Nicholson, Moisés Arias,unknown,Drama  Thriller  Adventure
+45,tall girl,Nzingha Stewart , Ava Michelle, Griffin Gluck, Luke Eisner,Comedy  Drama  Romance
+46,polaroid,Lars Klevberg , Kathryn Prescott, Grace Zabriskie, Samantha Logan,Horror  Thriller  Mystery
+47,ad astra,James Gray , Brad Pitt, Tommy Lee Jones, Ruth Negga,Science Fiction  Drama
+48,downton abbey,Michael Engler , Hugh Bonneville, Jim Carter, Michelle Dockery,Drama  Romance  History
+49,rambo: last blood,Adrian Grunberg , Sylvester Stallone, Adriana Barraza, Paz Vega,Action  Thriller  Drama
+50,bloodline,Henry Jacobson , Seann William Scott, Mariela Garriga, Dale Dickey,Thriller  Crime  Horror
+51,running with the devil,Jason Cabell , Nicolas Cage, Laurence Fishburne,unknown,Action
+52,fractured,Brad Anderson , Sam Worthington, Lily Rabe, Stephen Tobolowsky,Thriller
+53,abominable,Jill Culton , Todd Wilderman (co-director); Chloe Bennet, Albert Tsai, Tenzing Norgay Trainor,Family  Animation  Adventure  Comedy
+54,the laundromat,Steven Soderbergh , Meryl Streep, Gary Oldman, Antonio Banderas,Drama  Crime  Comedy
+55,judy,Rupert Goold , Renée Zellweger, Jessie Buckley, Finn Wittrock,Drama  History  Music
+56,prey,Franck Khalfoun , Logan Miller, Kristine Froseth,unknown,Thriller
+0,joker,Todd Phillips , Joaquin Phoenix, Robert De Niro, Zazie Beetz,Crime  Thriller  Drama
+1,lucy in the sky,Noah Hawley , Natalie Portman, Jon Hamm, Zazie Beetz,Drama
+2,dolemite is my name,Craig Brewer , Eddie Murphy, Keegan-Michael Key, Mike Epps,Drama  Comedy  History
+3,in the tall grass,Vincenzo Natali , Patrick Wilson, Harrison Gilbertson, Rachel Wilson,Horror  Drama  Thriller
+4,low tide,Kevin McMullin , Keean Johnson, Jaeden Martell, Alex Neustaedter,Drama
+5,wrinkles the clown,Michael Beach Nichols , Michael Beach Nichols, Christopher K. Walker (screenplay),unknown,Documentary
+6,little monsters,Abe Forsythe , Lupita Nyong'o, Alexander England, Josh Gad,Adventure  Fantasy  Comedy  Family
+7,gemini man,Ang Lee , Will Smith, Mary Elizabeth Winstead, Clive Owen,Science Fiction  Action  Drama  Thriller
+8,the addams family,"Conrad Vernon, Greg Tiernan ", Oscar Isaac, Charlize Theron, Chloë Grace Moretz,Family  Animation  Comedy  Fantasy
+9,the king,David Michôd , Timothée Chalamet, Joel Edgerton, Sean Harris,Drama  History  War
+10,jexi,unknown, Adam Devine, Rose Byrne, Alexandra Shipp,Comedy
+11,el camino: a breaking bad movie,Vince Gilligan , Aaron Paul, Jesse Plemons, Scott MacArthur,Crime  Drama  Thriller  Action
+12,maleficent: mistress of evil,Joachim Rønning , Angelina Jolie, Elle Fanning, Michelle Pfeiffer,Family  Fantasy  Adventure
+13,zombieland: double tap,Ruben Fleischer , Woody Harrelson, Jesse Eisenberg, Emma Stone,Horror  Action  Comedy
+14,jojo rabbit,Taika Waititi , Roman Griffin Davis, Thomasin McKenzie, Scarlett Johansson,Comedy  War  Drama
+15,the lighthouse,Robert Eggers , Willem Dafoe, Robert Pattinson,unknown,Drama  Fantasy  Thriller  Horror
+16,wounds,Babak Anvari , Armie Hammer, Dakota Johnson, Zazie Beetz,Action  Crime  Thriller
+17,black and blue,Deon Taylor , Naomie Harris, Tyrese Gibson, Frank Grillo,Action  Thriller
+18,the current war,Alfonso Gomez-Rejon , Benedict Cumberbatch, Michael Shannon, Katherine Waterston,Drama  History
+19,countdown,Justin Dec , Elizabeth Lail, Peter Facinelli, Anne Winters,Horror  Thriller
+20,the kill team,Dan Krauss , Nat Wolff, Alexander Skarsgård,unknown,Drama  Action  Thriller
+21,the gallows act ii,"Chris Lofing, Travis Cluff ", Chris Milligan, Ema Horvath, Brittany Falardeau,Horror  Thriller
+22,terminator: dark fate,Tim Miller , Linda Hamilton, Arnold Schwarzenegger, Mackenzie Davis,Action  Adventure  Science Fiction
+23,motherless brooklyn,Edward Norton , Edward Norton, Bruce Willis, Gugu Mbatha-Raw,Drama  Thriller
+24,the irishman,Martin Scorsese , Robert De Niro, Al Pacino, Joe Pesci,Crime  Drama  History
+25,harriet,Kasi Lemmons , Cynthia Erivo, Leslie Odom Jr., Joe Alwyn,History  Drama
+26,arctic dogs,Aaron Woodley , Jeremy Renner, James Franco, Heidi Klum,Animation  Adventure  Comedy
+27,marriage story,Noah Baumbach , Scarlett Johansson, Adam Driver, Laura Dern,Drama
+28,doctor sleep,Mike Flanagan , Ewan McGregor, Rebecca Ferguson, Kyliegh Curran,Horror  Drama  Fantasy  Thriller
+29,last christmas,Paul Feig , Emilia Clarke, Henry Golding, Michelle Yeoh,Comedy  Romance  Drama
+30,playing with fire,Andy Fickman , John Cena, Keegan-Michael Key, John Leguizamo,Comedy  Family
+31,let it snow,Luke Snellin , Isabela Merced, Shameik Moore, Kiernan Shipka,Romance  Comedy
+32,midway,Roland Emmerich , Ed Skrein, Patrick Wilson, Luke Evans,War  History  Action  Drama
+33,klaus,Sergio Pablos , J. K. Simmons, Jason Schwartzman, Rashida Jones,Animation  Family  Adventure  Comedy
+34,honey boy,Alma Har'el , Shia LaBeouf, Lucas Hedges, Noah Jupe,Drama
+35,lady and the tramp,Charlie Bean , Tessa Thompson, Justin Theroux, Kiersey Clemons,Family  Animation  Romance
+36,noelle,Marc Lawrence , Anna Kendrick, Bill Hader, Kingsley Ben-Adir,Drama
+37,ford v ferrari,James Mangold , Matt Damon, Christian Bale, Jon Bernthal,Drama  Action  History
+38,charlie's angels,Elizabeth Banks , Kristen Stewart, Naomi Scott, Ella Balinska,Action  Adventure  Comedy
+39,the good liar,Bill Condon , Ian McKellen, Helen Mirren, Russell Tovey,Drama  Mystery  Crime
+40,the report,Scott Z. Burns , Adam Driver, Annette Bening, Ted Levine,Drama  Thriller
+41,waves,Trey Edward Shults , Kelvin Harrison Jr., Lucas Hedges, Taylor Russell,Romance  Drama
+42,frozen ii,"Chris Buck, Jennifer Lee ", Idina Menzel, Kristen Bell, Jonathan Groff,Family  Animation  Adventure  Comedy  Fantasy  Music
+43,a beautiful day in the neighborhood,Marielle Heller , Tom Hanks, Matthew Rhys, Susan Kelechi Watson,Drama
+44,21 bridges,Brian Kirk , Chadwick Boseman, Sienna Miller, Stephan James,Crime  Action  Drama
+45,dark waters,Todd Haynes , Mark Ruffalo, Anne Hathaway, Tim Robbins,Drama  Thriller  History
+46,knives out,Rian Johnson , Daniel Craig, Chris Evans, Ana de Armas,Comedy  Crime  Drama
+47,queen & slim,Melina Matsoukas , Daniel Kaluuya, Jodie Turner-Smith, Bokeem Woodbine,Drama  Romance  Crime
+48,the two popes,Fernando Meirelles , Anthony Hopkins, Jonathan Pryce,unknown,Drama  Comedy  History
+49,playmobil: the movie,Lino DiSalvo , Anya Taylor-Joy, Daniel Radcliffe, Gabriel Bateman,Family  Animation  Comedy  Adventure
+50,the aeronauts,Tom Harper , Felicity Jones, Eddie Redmayne, Himesh Patel,Adventure  Drama  Romance
+51,a million little pieces,Sam Taylor-Johnson , Aaron Taylor-Johnson, Billy Bob Thornton, Odessa Young,Drama
+52,daniel isn't real,Adam Egypt Mortimer , Miles Robbins, Patrick Schwarzenegger, Sasha Lane,Fantasy  Horror  Mystery  Thriller
+53,jumanji: the next level,Jake Kasdan , Dwayne Johnson, Jack Black, Kevin Hart,Adventure  Comedy  Fantasy
+54,richard jewell,Clint Eastwood , Paul Walter Hauser, Sam Rockwell, Kathy Bates,Drama  History  Crime
+55,black christmas,Sophia Takal , Imogen Poots, Lily Donoghue, Aleyse Shannon,Horror  Thriller
+56,6 underground,Michael Bay , Ryan Reynolds, Mélanie Laurent, Manuel Garcia-Rulfo,Action  Thriller
+57,bombshell,Jay Roach , Charlize Theron, Nicole Kidman, Margot Robbie,Drama  History
+58,uncut gems,unknown, Adam Sandler, Lakeith Stanfield, Julia Fox,Crime  Thriller  Drama
+59,seberg,Benedict Andrews , Kristen Stewart, Jack O'Connell, Margaret Qualley,Thriller  Drama
+60,a hidden life,Terrence Malick , August Diehl, Valerie Pachner, Matthias Schoenaerts,Drama  War  History
+61,star wars: the rise of skywalker,J. J. Abrams , Carrie Fisher, Mark Hamill, Adam Driver,Action  Adventure  Science Fiction
+62,cats,Tom Hooper , James Corden, Judi Dench, Jason Derulo,Fantasy  Comedy  Drama
+63,togo,Ericson Core , Willem Dafoe, Julianne Nicholson, Christopher Heyerdahl,Adventure  Family
+64,spies in disguise,"Nick Bruno, Troy Quane ", Will Smith, Tom Holland, Rashida Jones,Animation  Action  Adventure  Comedy  Family
+65,little women,Greta Gerwig , Saoirse Ronan, Emma Watson, Florence Pugh,Drama  Romance
+66,1917,Sam Mendes , George MacKay, Dean-Charles Chapman, Mark Strong,War  Drama  Action  Thriller
+67,just mercy,Destin Daniel Cretton , Michael B. Jordan, Jamie Foxx, Brie Larson,Drama  Crime  History
+68,clemency,Chinonye Chukwu , Alfre Woodard, Wendell Pierce, Aldis Hodge,Drama
+0,the grudge,Nicolas Pesce , Andrea Riseborough, Demián Bichir, John Cho,Horror  Mystery  Thriller
+1,underwater,William Eubank , Kristen Stewart, Vincent Cassel, Jessica Henwick,Action  Horror  Science Fiction  Thriller
+2,like a boss,Miguel Arteta , Tiffany Haddish, Rose Byrne, Salma Hayek,Comedy
+3,three christs,Jon Avnet , Richard Gere, Peter Dinklage, Walton Goggins,Drama
+4,inherit the viper,Anthony Jerjen , Josh Hartnett, Margarita Levieva, Chandler Riggs,Drama  Thriller  Crime
+5,the sonata,Andrew Desmond , Freya Tingley, Simon Abkarian, Rutger Hauer,Horror  Thriller  Mystery
+6,the murder of nicole brown simpson,Daniel Farrands , Mena Suvari, Nick Stahl, Taryn Manning,Thriller  Drama  Crime
+7,bad boys for life,Adil El Arbi and Bilall Fallah , Will Smith, Martin Lawrence, Vanessa Hudgens,Thriller  Action  Crime
+8,dolittle,Stephen Gaghan , Robert Downey Jr., Antonio Banderas, Michael Sheen,Family  Fantasy  Adventure
+9,a fall from grace,Tyler Perry , Crystal R. Fox, Phylicia Rashad, Bresha Webb,Thriller
+10,the gentlemen,Guy Ritchie , Matthew McConaughey, Charlie Hunnam, Henry Golding,Action  Crime  Comedy
+11,the turning,Floria Sigismondi , Mackenzie Davis, Finn Wolfhard, Brooklynn Prince,Horror  Thriller
+12,the last full measure,Todd Robinson , Sebastian Stan, Christopher Plummer, William Hurt,War  Drama
+13,the night house,David Bruckner , Rebecca Hall, Sarah Goldberg, Stacy Martin,Horror  Thriller
+14,john henry,Will Forbes , Terry Crews, Ludacris, Jamila Velazquez,Drama  Thriller
+15,the rhythm section,Reed Morano , Blake Lively, Jude Law, Sterling K. Brown,Action  Thriller
+16,gretel & hansel,Oz Perkins , Sophia Lillis, Sammy Leakey, Charles Babalola,Horror  Fantasy  Thriller
+17,the assistant,Kitty Green , Julia Garner, Matthew Macfadyen,unknown,Drama
+18,birds of prey,Cathy Yan , Margot Robbie, Mary Elizabeth Winstead, Jurnee Smollett-Bell,Action  Crime
+19,the lodge,unknown, Riley Keough, Jaeden Martell, Lia McHugh,Drama  Horror  Thriller
+20,timmy failure: mistakes were made,Tom McCarthy , Winslow Fegley, Ophelia Lovibond, Craig Robinson,Family  Mystery  Comedy  Fantasy
+21,horse girl,Jeff Baena , Alison Brie, Debby Ryan, John Paul Reynolds,Drama
+22,to all the boys: p.s. i still love you,Michael Fimognari , Lana Condor, Noah Centineo, Jordan Fisher,Romance  Comedy
+23,sonic the hedgehog,Jeff Fowler , James Marsden, Ben Schwartz, Tika Sumpter,Action  Science Fiction  Comedy  Family
+24,fantasy island,Jeff Wadlow , Michael Peña, Maggie Q, Lucy Hale,Adventure  Fantasy  Horror  Mystery
+25,the photograph,Stella Meghie , Issa Rae, Lakeith Stanfield, Chelsea Peretti,Drama  Romance
+26,downhill,"Nat Faxon, Jim Rash ", Julia Louis-Dreyfus, Will Ferrell, Miranda Otto,Drama  Comedy
+27,spy intervention,Drew Mylrea , Drew Van Acker, Poppy Delevingne, Natasha Bassett,Action  Adventure  Comedy
+28,the kindness of strangers,Lone Scherfig , Andrea Riseborough, Tahar Rahim, Zoe Kazan,Drama
+29,the call of the wild,Chris Sanders , Harrison Ford, Dan Stevens, Omar Sy,Drama  Adventure  Family
+30,the last thing he wanted,unknown, Anne Hathaway, Ben Affleck, Rosie Perez,Drama  Thriller
+31,brahms: the boy ii,William Brent Bell , Katie Holmes, Owain Yeoman, Christopher Convery,Horror  Mystery  Thriller
+32,the night clerk,Michael Cristofer , Tye Sheridan, Ana de Armas, Helen Hunt,Crime  Drama  Thriller
+33,impractical jokers: the movie,Chris Henchy , Brian Quinn, Joe Gatto, Sal Vulcano,Comedy
+34,the invisible man,Leigh Whannell , Elisabeth Moss, Aldis Hodge, Storm Reid,Thriller  Science Fiction  Horror
+35,all the bright places,Brett Haley , Elle Fanning, Justice Smith, Alexandra Shipp,Drama  Romance
+36,wendy,Benh Zeitlin , Tommie Lynn Milazzo, Shay Walker,unknown,Fantasy  Adventure  Family
+37,guns akimbo,Jason Lei Howden , Daniel Radcliffe, Samara Weaving, Natasha Liu Bordizzo,Comedy  Action
+38,onward,Dan Scanlon , Tom Holland, Chris Pratt, Julia Louis-Dreyfus,Animation  Family  Adventure  Comedy  Fantasy
+39,the way back,Gavin O'Connor , Ben Affleck, Al Madrigal, Michaela Watkins,Drama
+40,spenser confidential,Peter Berg , Mark Wahlberg, Winston Duke, Alan Arkin,Comedy  Action  Thriller
+41,the banker,George Nolfi , Anthony Mackie, Nicholas Hoult, Nia Long,Drama
+42,the burnt orange heresy,Giuseppe Capotondi , Claes Bang, Elizabeth Debicki, Mick Jagger,Thriller  Drama  Mystery
+43,swallow,Carlo Mirabella-Davis , Haley Bennett, Austin Stowell, Elizabeth Marvel,Drama  Thriller  Horror
+44,first cow,Kelly Reichardt , John Magaro, Orion Hall, René Auberjonois,Drama  Western  History
+45,bloodshot,Dave S. F. Wilson , Vin Diesel, Eiza González, Sam Heughan,Action
+46,the hunt,Craig Zobel , Betty Gilpin, Ike Barinholtz, Amy Madigan,Action  Thriller  Horror
+47,i still believe,Erwin Brothers , KJ Apa, Britt Robertson, Shania Twain,Music  Drama
+48,lost girls,Liz Garbus , Amy Ryan, Thomasin McKenzie, Lola Kirke,Drama  Mystery  Thriller  History
+49,stargirl,Julia Hart , Grace VanderWaal, Graham Verchere, Giancarlo Esposito,Comedy  Drama  Romance
+50,the roads not taken,Sally Potter , Javier Bardem, Elle Fanning, Laura Linney,Drama
+51,never rarely sometimes always,Eliza Hittman , Sidney Flanigan, Talia Ryder, Theodore Pellerin,Drama
+52,big time adolescence,Jason Orley , Pete Davidson, Griffin Gluck, Jon Cryer,Comedy
+53,lost transmissions,Katharine O'Brien , Simon Pegg, Juno Temple, Alexandra Daddario,Drama
+54,resistance,Jonathan Jakubowicz , Jesse Eisenberg, Ed Harris, Clémence Poésy,War  History  Drama
+55,uncorked,Prentice Penny , Mamoudou Athie, Courtney B. Vance, Niecy Nash,Drama  Comedy
+56,vivarium,Lorcan Finnegan , Imogen Poots, Jesse Eisenberg,unknown,Science Fiction  Horror  Mystery
+0,coffee & kareem,Michael Dowse , Ed Helms, Taraji P. Henson, Betty Gilpin,Comedy  Action  Crime
+1,trolls world tour,Walt Dohrn , Anna Kendrick, Justin Timberlake, Rachel Bloom,Animation  Family  Comedy  Fantasy  Adventure  Music
+2,love wedding repeat,Dean Craig , Olivia Munn, Sam Claflin, Freida Pinto,Comedy  Romance
+3,the main event,Jay Karas , Seth Carr, Tichina Arnold, Ken Marino,Family  Comedy
+4,we summon the darkness,Marc Meyers , Alexandra Daddario, Keean Johnson, Logan Miller,Horror  Thriller
+5,the lost husband,Vicky Wight , Leslie Bibb, Josh Duhamel, Nora Dunn,Romance  Drama
+6,corona zombies,Charles Band , Cody Renee Cameron, Russell Coker, Robin Sydney,Horror  Comedy
+7,sergio,Greg Barker , Wagner Moura, Ana de Armas, Garret Dillahunt,Drama
+8,the willoughbys,Kris Pearn , Will Forte, Maya Rudolph, Alessia Cara,Animation  Comedy  Family
+9,extraction,Sam Hargrave , Chris Hemsworth, Rudhraksh Jaiswal, Randeep Hooda,Drama  Action  Thriller
+10,braking for whales,Sean McEwen , Tom Felton, Tammin Sursok, Wendi McLendon-Covey,Drama  Comedy
+11,bad education,Cory Finley , Hugh Jackman, Allison Janney, Geraldine Viswanathan,Drama  Crime  History  TV Movie
+12,dangerous lies,Michael Scott , Camila Mendes, Jessie T. Usher, Jamie Chung,Thriller
+13,all day and a night,Joe Robert Cole , Ashton Sanders, Jeffrey Wright, Yahya Abdul-Mateen II,Drama
+14,the wretched,The Pierce Brothers , John-Paul Howard, Piper Curda, Zarah Mahler,Horror
+15,the half of it,Alice Wu , Leah Lewis, Daniel Diemer, Alexxis Lemire,Comedy  Romance
+16,arkansas,Clark Duke , Liam Hemsworth, Clark Duke, Michael Kenneth Williams,Crime
+17,valley girl,Rachel Lee Goldenberg , Jessica Rothe, Josh Whitehouse, Mae Whitman,Comedy  Romance
+18,capone,Josh Trank , Tom Hardy, Linda Cardellini, Jack Lowden,Crime  Drama
+19,the wrong missy,Tyler Spindel , David Spade, Lauren Lapkus, Geoff Pierson,Comedy  Romance
+20,scoob!,Tony Cervone , Will Forte, Mark Wahlberg, Jason Isaacs,Family  Animation  Comedy  Adventure
+21,blood and money,John Barr , Tom Berenger, Kristen Hager, Mark Sivertsen,
+22,body cam,Malik Vitthal , Mary J. Blige, Nat Wolff, David Zayas,Horror  Thriller  Mystery
+23,the lovebirds,Michael Showalter , Issa Rae, Kumail Nanjiani, Paul Sparks,Action  Comedy  Romance
+24,inheritance,Vaughn Stein , Lily Collins, Simon Pegg, Chace Crawford,Thriller
+25,survive the night,Matt Eskandari , Bruce Willis, Chad Michael Murray,unknown,Action  Thriller
+26,the high note,Nisha Ganatra , Dakota Johnson, Tracee Ellis Ross, Kelvin Harrison Jr.,Romance  Comedy  Music  Drama
+27,shirley,Josephine Decker , Elisabeth Moss, Michael Stuhlbarg, Odessa Young,Drama  Thriller  Mystery
+28,the last days of american crime,Olivier Megaton , Édgar Ramírez, Anna Brewster, Michael Pitt,Action  Crime  Thriller
+29,becky,"Jonathan Milott, Cary Murnion ", Lulu Wilson, Kevin James, Joel McHale,Horror  Crime  Thriller
+30,think like a dog,Gil Junger , Josh Duhamel, Megan Fox,unknown,Family  Comedy  Drama
+31,artemis fowl,Kenneth Branagh , Ferdia Shaw, Lara McDonnell, Josh Gad,Adventure  Fantasy  Science Fiction  Family  Action
+32,da 5 bloods,Spike Lee , Delroy Lindo, Jonathan Majors, Clarke Peters,War  Drama
+33,the king of staten island,Judd Apatow , Pete Davidson, Marisa Tomei, Bill Burr,Comedy  Drama
+34,sniper: assassin's end,Kaare Andrews , Chad Michael Collins, Tom Berenger, Sayaka Akimoto,Action
+35,you should have left,David Koepp , Kevin Bacon, Amanda Seyfried,unknown,Horror  Mystery  Drama  Thriller
+36,wasp network,Olivier Assayas , Penélope Cruz, Édgar Ramírez, Gael García Bernal,Drama  History  Thriller
+37,feel the beat,Elissa Down , Sofia Carson, Enrico Colantoni, Wolfgang Novogratz,Comedy  Music  Drama
+38,7500,Patrick Vollrath , Joseph Gordon-Levitt,unknown,unknown,Action  Drama  Thriller
+39,athlete a,"Bonni Cohen, Jon Shenk ",Bonni Cohen, Jon Shenk (director),unknown,Documentary
+40,eurovision song contest: the story of fire saga,David Dobkin , Will Ferrell, Rachel McAdams, Dan Stevens,Comedy  Music
+41,irresistible,Jon Stewart , Steve Carell, Chris Cooper, Mackenzie Davis,Comedy  Drama
+42,my spy,Peter Segal , Dave Bautista, Chloe Coleman, Kristen Schaal,Family  Action  Comedy
+0,hamilton,Thomas Kail , Lin-Manuel Miranda, Phillipa Soo, Leslie Odom Jr.,History  Music  Drama
+1,relic,Natalie Erika James , Emily Mortimer, Robyn Nevin, Bella Heathcote,Horror  Drama  Mystery  Thriller
+2,desperados,LP , Anna Camp, Robbie Amell, Nasim Pedrad,Comedy  Romance
+3,the old guard,Gina Prince-Bythewood , Charlize Theron, KiKi Layne, Marwan Kenzari,Action  Fantasy
+4,greyhound,Aaron Schneider , Tom Hanks, Stephen Graham, Rob Morgan,War  Action  Drama
+5,palm springs,Max Barbakow , Andy Samberg, Cristin Milioti, Peter Gallagher,Comedy  Romance  Fantasy  Mystery  Science Fiction
+6,fatal affair,Peter Sullivan , Nia Long, Omar Epps, Stephen Bishop,Thriller
+7,the silencing,Robin Pront , Annabelle Wallis, Hero Fiennes-Tiffin, Nikolaj Coster-Waldau,Action  Crime  Thriller
+8,a nice girl like you,The Brothers Riedell , Lucy Hale, Leonidas Gulaptis, Jackie Cruz,Comedy  Romance
+9,ghosts of war,Eric Bress , Brenton Thwaites, Theo Rossi, Skylar Astin,Horror  Thriller  War  Fantasy
+10,animal crackers,"Scott Christian Sava, Tony Bancroft ", John Krasinski, Emily Blunt, Ian McKellen,Comedy  Animation  Adventure
+11,the kissing booth 2,Vince Marcello , Joey King, Joel Courtney, Jacob Elordi,Comedy  Romance
+12,the rental,Dave Franco , Dan Stevens, Alison Brie, Sheila Vand,Horror  Thriller
+13,deep blue sea 3,John Pogue , Tania Raymonde, Nathaniel Buzolic, Emerson Brooks,Action  Horror  Science Fiction
+14,black is king,"Beyoncé, Emmanuel Adjei, Blitz Bazawule, Ibra Ake, Jenn Nkiru, Jake Nava, Pierre Debusschere, Dikayl Rimmasch ", Beyoncé,unknown,unknown,Music
+15,the secret: dare to dream,Andy Tennant , Katie Holmes, Josh Lucas, Jerry O'Connell,Drama  Romance
+16,summerland,Jessica Swale , Gemma Arterton, Gugu Mbatha-Raw, Penelope Wilton,Drama  War  Romance
+17,she dies tomorrow,Amy Seimetz , Kate Lyn Sheil, Jane Adams, Kentucker Audley,Drama
+18,an american pickle,Brandon Trost , Seth Rogen, Sarah Snook,unknown,Comedy
+19,the tax collector,David Ayer , Bobby Soto, Shia LaBeouf, Cinthya Carmona,Action  Crime  Drama
+20,waiting for the barbarians,Ciro Guerra , Mark Rylance, Johnny Depp, Robert Pattinson,Drama
+21,project power,"Henry Joost, Ariel Schulman ", Jamie Foxx, Joseph Gordon-Levitt, Dominique Fishback,Action  Crime  Science Fiction
+22,magic camp,Mark Waters , Adam DeVine, Gillian Jacobs, Jeffrey Tambor,Comedy  Family  Fantasy
+23,boys state,"Amanda McBaine, Jesse Moss ",Amanda McBaine, Jesse Moss (directors),unknown,Documentary
+24,spree,Eugene Kotlyarenko , Joe Keery, Sasheer Zamata, Mischa Barton,Comedy  Crime  Horror  Thriller
+25,the one and only ivan,Thea Sharrock , Sam Rockwell, Angelina Jolie, Danny DeVito,Family  Comedy  Drama
+26,unhinged,Derrick Borte , Russell Crowe, Caren Pistorius, Gabriel Bateman,Action  Thriller
+27,tesla,Michael Almereyda , Ethan Hawke, Eve Hewson, Ebon Moss-Bachrach,History  Drama
+28,cut throat city,RZA , Shameik Moore, T.I., Demetrius Shipp Jr.,Action  Crime  Drama  Thriller
+29,words on bathroom walls,Thor Freudenthal , Charlie Plummer, Andy García, Taylor Russell,Drama  Romance
+30,hard kill,Matt Eskandari , Jesse Metcalfe, Bruce Willis,unknown,Action  Thriller
+31,chemical hearts,unknown,Richard Tanne (director/sceenplay); Austin Abrams, Lili Reinhart,unknown,Drama  Romance
+32,tenet,Christopher Nolan , John David Washington, Robert Pattinson, Elizabeth Debicki,Action  Thriller  Science Fiction
+33,bill & ted face the music,Dean Parisot , Keanu Reeves, Alex Winter, Kristen Schaal,Comedy  Science Fiction  Adventure
+34,the new mutants,Josh Boone , Maisie Williams, Anya Taylor-Joy, Charlie Heaton,Action  Horror  Science Fiction
+35,the personal history of david copperfield,Armando Iannucci , Dev Patel, Aneurin Barnard, Peter Capaldi,Drama  Comedy
+36,i'm thinking of ending things,Charlie Kaufman , Jesse Plemons, Jessie Buckley, Toni Collette,Drama  Thriller
+37,phineas and ferb the movie: candace against the universe,Bob Bowen , Vincent Martella, Ashley Tisdale, David Errigo Jr.,Animation  Science Fiction  Comedy  Music  Family  Adventure  TV Movie
+38,all together now,Brett Haley , Auliʻi Cravalho, Rhenzy Feliz, Judy Reyes,Drama
+39,rogue,M. J. Bassett , Megan Fox, Philip Winchester,unknown,Action  Adventure
+40,centigrade,Brendan Walsh , Genesis Rodriguez, Vincent Piazza, Louis Cancelmi,Thriller
+41,the binge,Jeremy Garelick , Skyler Gisondo, Eduardo Franco, Dexter Darden,Comedy
+42,"love, guaranteed",Mark Steven Johnson , Rachael Leigh Cook, Damon Wayans Jr.,unknown,Romance  Comedy
+43,mulan,Niki Caro , Liu Yifei, Donnie Yen, Tzi Ma,Adventure  Fantasy
+44,critical thinking,John Leguizamo , John Leguizamo, Jorge Lendeborg Jr., Angel Bismark Curiel,Drama
+45,the owners,Julius Berg , Maisie Williams, Sylvester McCoy, Rita Tushingham,Thriller  Horror
+46,guest house,Sam Macaroni , Pauly Shore, Mike Castle, Aimee Teegarden,Comedy
+47,the babysitter: killer queen,McG , Judah Lewis, Emily Alyn Lind, Jenna Ortega,Comedy  Horror
+48,unpregnant,Rachel Lee Goldenberg , Haley Lu Richardson, Barbie Ferreira, Alex MacNicoll,Drama  Comedy
+49,the devil all the time,Antonio Campos , Tom Holland, Bill Skarsgård, Riley Keough,Crime  Drama  Thriller
+50,the broken hearts gallery,Natalie Krinsky , Geraldine Viswanathan, Dacre Montgomery, Utkarsh Ambudkar,Comedy  Romance
+51,i met a girl,Luke Eve , Brenton Thwaites, Lily Sullivan, Joel Jackson,Comedy  Drama  Romance
+52,rent-a-pal,Jon Stevenson , Wil Wheaton, Brian Landis Folkins, Kathleen Brady,Horror  Thriller
+53,cats & dogs 3: paws unite!,Sean McNamara , Melissa Rauch, Max Greenfield, George Lopez,Comedy  Action
+54,the secrets we keep,Yuval Adler , Noomi Rapace, Joel Kinnaman, Chris Messina,Thriller
+55,antebellum,unknown, Janelle Monáe, Eric Lange, Jena Malone,Horror
+56,the nest,Sean Durkin , Jude Law, Carrie Coon, Charlie Shotwell,Drama  Romance
+57,blackbird,Roger Michell , Susan Sarandon, Kate Winslet, Mia Wasikowska,Drama
+58,lost girls & love hotels,William Olsson , Alexandra Daddario, Takehiro Hira, Carice van Houten,Drama
+59,killian & the comeback kids,Taylor A. Purdee , Taylor A. Purdee, John Donchak, Nathan Purdee,
+60,enola holmes,Harry Bradbeer , Millie Bobby Brown, Henry Cavill, Sam Claflin,Crime  Drama  Mystery
+61,the trial of the chicago 7,Aaron Sorkin , Yahya Abdul-Mateen II, Sacha Baron Cohen, Danny Flaherty,Drama  History  Thriller
+62,ava,Tate Taylor , Jessica Chastain, John Malkovich, Common,Action  Crime  Drama  Thriller
+63,kajillionaire,Miranda July , Evan Rachel Wood, Richard Jenkins, Debra Winger,Crime  Drama  Comedy
+64,the last shift,Andrew Cohn , Richard Jenkins, Shane Paul McGhie, Da'Vine Joy Randolph,Comedy  Drama
+65,secret society of second-born royals,Anna Mastro , Peyton Elizabeth Lee, Skylar Astin, Élodie Yung,Action  Adventure  Comedy  Fantasy
+66,she's in portland,Marc Carlini , Tommy Dewey, François Arnaud, Minka Kelly,Comedy  Drama
+67,sightless,Cooper Karl , Madelaine Petsch, Alexander Koch,unknown,Thriller
+68,the boys in the band,Joe Mantello , Jim Parsons, Zachary Quinto, Matt Bomer,Drama
+69,the glorias,Julie Taymor , Julianne Moore, Alicia Vikander, Timothy Hutton,Drama
