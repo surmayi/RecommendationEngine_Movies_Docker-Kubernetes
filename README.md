@@ -25,19 +25,18 @@ Steps to run -
 
 To run on Docker-Kubernetes -
 On your GCP terminal -
-git clone https://github.com/surmayi/RecommendationEngine_Movies_Docker-Kubernetes.git
-ls -l
-cd RecommendationEngine_Movies_Docker-Kubernetes/
-export PROJECT_ID=your-current-project
-docker build -t gcr.io/${PROJECT_ID}/movie_re:v1 .
-docker images
-gcloud auth configure-docker gcr.io
-docker push gcr.io/${PROJECT_ID}/movie_re:v1
-gcloud config set compute/zone us-central1-c
-gcloud container clusters create moviere-cluster --num-nodes=1
-kubectl create deployment movie-re --image gcr.io/${PROJECT_ID}/movie_re:v1
-kubectl expose deployment movie-re --type LoadBalancer --port 80 --target-port 5000
-kubectl get services
+1. git clone https://github.com/surmayi/RecommendationEngine_Movies_Docker-Kubernetes.git
+2. cd RecommendationEngine_Movies_Docker-Kubernetes/
+3. export PROJECT_ID=your-current-project
+4. docker build -t gcr.io/${PROJECT_ID}/movie_re:v1 .
+5. docker images
+6. gcloud auth configure-docker gcr.io
+7. docker push gcr.io/${PROJECT_ID}/movie_re:v1
+8. gcloud config set compute/zone us-central1-c
+9. gcloud container clusters create moviere-cluster --num-nodes=1
+10. kubectl create deployment movie-re --image gcr.io/${PROJECT_ID}/movie_re:v1
+11. kubectl expose deployment movie-re --type LoadBalancer --port 80 --target-port 5000
+12. kubectl get services
 
 Get ip with the last command and run it on 5000 port on browser, now it is accessible globally
 
