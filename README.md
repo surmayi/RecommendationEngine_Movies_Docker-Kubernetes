@@ -15,6 +15,14 @@ For sentiments analysis-
 3. Used MultinomialNB naive Baise to train the model against the label as in a good or bad review
 4. For every movie searched, use the imdb id to pull the reviews from IMDB API and use the model to predict the review as good or bad.
 
+Steps to run -
+1. Clone the repository from github
+2. Create your API by creating a TMDB profile as developer.
+3. Replace your key at moviesInfo.py, line 5. static/recommend.js, line 15 and 29. 
+4. Run pip install -r requirements.txt
+5. Run python app.py
+6. browse 127.0.0.1:5000 to access the application 
+
 ![image](https://user-images.githubusercontent.com/16138757/109556454-79b00e00-7a9c-11eb-93d4-34b25c1d1992.png)
 
 ![image](https://user-images.githubusercontent.com/16138757/109556553-93e9ec00-7a9c-11eb-8251-9fcc238e7da0.png)
