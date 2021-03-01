@@ -23,6 +23,24 @@ Steps to run -
 5. Run python app.py
 6. browse 127.0.0.1:5000 to access the application 
 
+To run on Docker-Kubernetes -
+On your GCP terminal -
+git clone https://github.com/surmayi/RecommendationEngine_Movies_Docker-Kubernetes.git
+ls -l
+cd RecommendationEngine_Movies_Docker-Kubernetes/
+export PROJECT_ID=your-current-project
+docker build -t gcr.io/${PROJECT_ID}/movie_re:v1 .
+docker images
+gcloud auth configure-docker gcr.io
+docker push gcr.io/${PROJECT_ID}/movie_re:v1
+gcloud config set compute/zone us-central1-c
+gcloud container clusters create moviere-cluster --num-nodes=1
+kubectl create deployment movie-re --image gcr.io/${PROJECT_ID}/movie_re:v1
+kubectl expose deployment movie-re --type LoadBalancer --port 80 --target-port 5000
+kubectl get services
+
+Get ip with the last command and run it on 5000 port on browser, now it is accessible globally
+
 ![image](https://user-images.githubusercontent.com/16138757/109556454-79b00e00-7a9c-11eb-93d4-34b25c1d1992.png)
 
 ![image](https://user-images.githubusercontent.com/16138757/109556553-93e9ec00-7a9c-11eb-8251-9fcc238e7da0.png)
